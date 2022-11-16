@@ -2,38 +2,44 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Predict how all three transistor currents (IB, IC, and IE) will be affected as a result of the following fault:<br/><p style=\"text-align:center\"><img src=\"images/bjtq2.png\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "All three currents stop.",
+        "b": "Base current unchanged, collector current stops, emitter current decreases to value of base current (IE = IB).",
+        "c": "All three currents greatly increase, transistor will likely overheat and fail.",
+        "d": "Base current unchanged, collector current increases slightly (ideally will not change at all!), transistor dissipates more power in the form of heat (may overheat)"
+        
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is correct  ",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is incorrect",
+        "d":"You have choosen option (d). The answer is incorrect"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Predict how all three transistor currents (IB, IC, and IE) will be affected as a result of the following fault <br/><p style=\"text-align:center\"><img src=\"images/zenerq4.png\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": " All three currents stop",
+        "b": "Base current unchanged, collector current stops, emitter current decreases to value of base current (IE = IB)",
+        "c": "All three currents greatly increase, transistor will likely overheat and fail.",
+        "d": "Base current unchanged, collector current increases slightly (ideally will not change at all!), transistor dissipates more power in the form of heat (may overheat)"
+        
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is correct",
+        "c": "You have choosen option (c). The answer is incorrect",
+        "d":"You have choosen option (d). The answer is incorrect"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
+   
+    
+    
+    
   ]
 }
