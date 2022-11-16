@@ -20,7 +20,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Predict how all three transistor currents (IB, IC, and IE) will be affected as a result of the following fault <br/><p style=\"text-align:center\"><img src=\"images/zenerq4.png\"></p>",
+      "question": "Predict how all three transistor currents (IB, IC, and IE) will be affected as a result of the following fault <br/><p style=\"text-align:center\"><img src=\"images/bjtq3.png\"></p>",
       "answers": {
         "a": " All three currents stop",
         "b": "Base current unchanged, collector current stops, emitter current decreases to value of base current (IE = IB)",
