@@ -115,7 +115,8 @@ $$ I_B = (1 - &#945;_F) \times I_F + (1 - &#945;_R) \times I_R$$
 
 The forward and reverse current gains are related by the expression
 
-$$&#945;_R  I_{CS}=&#945;_F \times I_{ ES} =I_S$$<br>
+$$&#945;_R  I_{CS}=&#945;_F \times I_{ ES} =I_S$$
+
 where,
 I<sub>S</sub> is the BJT transport saturation current.
 The parameters α<sub>R</sub> and α<sub>F</sub> are influenced by impurity concentrations and junction depths. The saturation current, I<sub>S</sub>, can be expressed as<br>
