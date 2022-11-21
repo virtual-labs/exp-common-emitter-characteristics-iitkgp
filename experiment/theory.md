@@ -114,7 +114,8 @@ $$  I_E = -I_F + &#945;_R * I_R$$
 $$ I_B = (1 - &#945;_F) \times I_F + (1 - &#945;_R) \times I_R$$
 
 The forward and reverse current gains are related by the expression
-$$&#945;_R I_{CS}= &#945;_F I_{ ES} =I_S$$
+
+$$α_R \times I_{CS}= α_F \times I_{ ES} =I_S$$
 
 where,
 I<sub>S</sub> is the BJT transport saturation current.
