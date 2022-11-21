@@ -6,7 +6,7 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
-<b>Discipline | <b> Computer Science and  Engineering 
+<b>Discipline | <b> Electronics and Communication and  Engineering 
 :--|:--|
 <b> Lab | <b> **Basic Electronics**
 <b> Experiment|     <b> **BJT Common Emitter Characteristics and Experiment 10**
@@ -28,8 +28,8 @@
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
-1 | **Sukriti Dhang** | Developer | Senior Project Assistant | Department of Computer Science and Engineering | IIT Kharagpur | 
+1 | **Sukriti Dhang** | Developer | Senior Project Assistant | Department of Mechanical Engineering | IIT Kharagpur | 
 2 | **Pabitra Kumar Jana** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
-3 | **Prakriti Dhang** | Integration | Project Staff- Technical | Department of Computer Science and Engineering | IIT Kharagpur | 
+3 | **Prakriti Dhang** | Integration | Project Staff- Technical | Department of Mechanical Engineering | IIT Kharagpur | 
 
 

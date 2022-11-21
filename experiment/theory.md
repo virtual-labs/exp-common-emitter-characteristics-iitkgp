@@ -31,7 +31,7 @@ They have three regions and three terminals, emitter, base, and collector repres
 
 ### Operation of Bipolar Junction Transistor
 <div align="center">
-<img src="images/bjtcet3.png" width="50%">
+<img src="images/bjtcet3.png" width="30%">
 <p>Figure 3: Four Operating Conditions  </p>
 </div>
 
@@ -114,8 +114,7 @@ $$  I_E = -I_F + &#945;_R * I_R$$
 $$ I_B = (1 - &#945;_F) \times I_F + (1 - &#945;_R) \times I_R$$
 
 The forward and reverse current gains are related by the expression
-
-$$ &#945;_R \times I_{CS}= &#945;_F \times I_{ ES} =I_S$$
+$$&#945;_R I_{CS}= &#945;_F I_{ ES} =I_S$$
 
 where,
 I<sub>S</sub> is the BJT transport saturation current.
@@ -142,7 +141,7 @@ $$I_B=ϕ(V_{BE},V_{CE}) for constant V_{CE}$$
 
 The most important characteristic of the BJT is the plot of the collector current, I<sub>C</sub>, versus the collector-emitter voltage, V<sub>CE</sub>, for various values of the base current, IB as shown on the circuit on the right.
 
-$$I_C=ϕ(V_{CE},I_B)  for constant I_B$$
+$$I_C=ϕ(V_{CE},I_B)$$  for constant I<sub>B</sub>
 
 <div align="center">
 <img src="images/bjtcet5.png" width="50%">
