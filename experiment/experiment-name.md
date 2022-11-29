@@ -1,1 +1,1 @@
-## Experiment name
+## BJT Common Emitter Characteristics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/iitkgp.png" width="3%" />
