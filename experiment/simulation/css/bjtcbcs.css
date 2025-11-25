@@ -8,10 +8,10 @@ and open the template in the editor.
     Author     : sukriti
 */
 
-input{
+/* input{
     width:250px;
     height:40px;
-    background:#4E9CAF;  //darkmoderate cyan
+    background:#4E9CAF;  
     text-align: center;
     padding:15px ;
     padding-top:3px;
@@ -24,5 +24,6 @@ input{
     cursor:pointer;
 }
 input:hover{
-    background-color:#20B2AA;  //LightSeaGreen
-}
+    background-color:#20B2AA;  
+} */
+        

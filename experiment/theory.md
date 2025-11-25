@@ -8,14 +8,14 @@
 A bipolar junction transistor, BJT, is a single piece of silicon with two back-to-back P-N junctions.BJTs can be made either as PNP or as NPN.
 
 <div align="center">
-<img src="images/bjtcet.png" width="50%">
+<img src="images/bjtcet.png" style="max-width:100; height:auto;">
 <p>Figure 1: Structures, layers and circuit symbol of NPN transistor  </p>
 </div>
 
 They have three regions and three terminals, emitter, base, and collector represented by E, B, and C respectively. The direction of the arrow indicates the direction of the current in the emitter when the transistor is conducting normally. An easy way to remember this is NPN stands for "Not Pointing iN".
 
 <div align="center">
-<img src="images/bjtcet2.png" width="50%">
+<img src="images/bjtcet2.png" style="max-width:100; height:auto;">
 <p>Figure 2: Structures, layers and circuit symbol of PNP transistor  </p>
 </div>
 
@@ -31,7 +31,7 @@ They have three regions and three terminals, emitter, base, and collector repres
 
 ### Operation of Bipolar Junction Transistor
 <div align="center">
-<img src="images/bjtcet3.png" width="30%">
+<img src="images/bjtcet3.png" style="max-width:100; height:auto;">
 <p>Figure 3: Four Operating Conditions  </p>
 </div>
 
@@ -134,7 +134,7 @@ $$I_B=ϕ(V_{BE},V_{CE})$$ for constant V<sub>CE</sub>
 
 
 <div align="center">
-<img src="images/bjtcet4.png" width="50%">
+<img src="images/bjtcet4.png" style="max-width:100; height:auto;">
 <p>Figure 4: Input Characteristics Circuit  </p>
 </div>
 
@@ -145,7 +145,7 @@ The most important characteristic of the BJT is the plot of the collector curren
 $$I_C=ϕ(V_{CE},I_B)$$  for constant I<sub>B</sub>
 
 <div align="center">
-<img src="images/bjtcet5.png" width="50%">
+<img src="images/bjtcet5.png" style="max-width:100; height:auto;">
 <p>Figure 5: Output Characteristics Circuit  </p>
 </div>
 
