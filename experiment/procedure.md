@@ -11,7 +11,7 @@
                                     
 
 <div align="center">
-<img src="images/bjtce_pr.png" width="50%">
+<img src="images/bjtce_pr.png" style="max-width:100; height:auto;">
 <p>Figure:1</p>
 </div>
 
@@ -25,7 +25,7 @@
 7. Now set the Base Current(I<sub>B</sub>) to 20 uA
 
 <div align="center">
-<img src="images/bjtce_pr.png" width="50%">
+<img src="images/bjtce_pr.png" style="max-width:100; height:auto;">
 <p>Figure: 2</p>
 </div>
 
