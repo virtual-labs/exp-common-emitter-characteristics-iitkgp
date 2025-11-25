@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 Aug, 2016, 3:10:53 PM
+    Author     : sukriti
+*/
+
+input{
+    width:250px;
+    height:40px;
+    background:#4E9CAF;  
+    padding:15px ;
+    padding-top:3px;
+    padding-bottom:3px;
+    border-radius:10px ;
+    color:white;
+    font-weight: bold;
+    font-size:12pt;
+    display: inline-block;
+    cursor:pointer;
+}
+input:hover{
+    background-color:#20B2AA;  
+}
+
+.nav-link {
+    border-radius: 8px;
+    transition: 0.3s ease;
+}
+
+/* Hover background */
+.nav-link:hover {
+    background-color: #0e00d6;   /* light gray */
+    color: #fafafa !important;
+}
+
+/* Active background */
+.nav-link.active {
+    background-color: #e9ecef !important; /* Bootstrap blue */
+    color: #0003b1 !important;
+}
+

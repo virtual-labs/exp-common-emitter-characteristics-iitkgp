@@ -1,0 +1,62 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Identify the terminals on this BJT, and also the type of BJT NPN or PNP:<br/><p style=\"text-align:center\"><img src=\"images/bjtq1.png\"></p>",
+        "answers": {
+          "a": "BEC",
+          "b": "CBE",
+          "c": "CEB",
+          "d": "EBC"
+          
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect",
+          "b": "You have choosen option (b). The answer is correct",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d":"You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "For what kind of amplifications can the active region of the common-emitter configuration be used?",
+        "answers": {
+          "a": "Voltage",
+          "b": "Current",
+          "c": "Power",
+          "d": "All of the above"
+          
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect  ",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d":"You have choosen option (d). The answer is correct"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+
+      {
+        "question": "How much is the base-to-emitter voltage of a transistor in the on state?",
+        "answers": {
+          "a": "0 V",
+          "b": "0.7 V",
+          "c": "0.7 mV",
+          "d": "Undefined"
+          
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect  ",
+          "b": "You have choosen option (b). The answer is correct",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d":"You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+
+    ]
+  }
+  

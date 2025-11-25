@@ -1,0 +1,1543 @@
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/bjtcbin.js
+   15:10  warning  'vbeChange' is defined but never used              no-unused-vars
+   18:5   warning  'check' is not defined                             no-undef
+   22:10  warning  'vbcchange' is defined but never used              no-unused-vars
+   25:5   warning  'check' is not defined                             no-undef
+   28:10  warning  'txtchngg' is defined but never used               no-unused-vars
+   33:10  warning  'txtchngn' is defined but never used               no-unused-vars
+   39:22  warning  'tabrowindex2' is assigned a value but never used  no-unused-vars
+   42:17  warning  'clmns1' is defined but never used                 no-unused-vars
+   47:10  warning  'tabled' is defined but never used                 no-unused-vars
+   49:9   warning  'vbem' is assigned a value but never used          no-unused-vars
+   50:9   warning  'vbcol' is assigned a value but never used         no-unused-vars
+  107:1   warning  '$' is not defined                                 no-undef
+  108:5   warning  '$' is not defined                                 no-undef
+  109:9   warning  '$' is not defined                                 no-undef
+  110:24  warning  '$' is not defined                                 no-undef
+  116:10  warning  'plot' is defined but never used                   no-unused-vars
+  124:17  warning  'CanvasJS' is not defined                          no-undef
+  157:10  warning  'printf' is defined but never used                 no-unused-vars
+  164:10  warning  'clearf' is defined but never used                 no-unused-vars
+  185:20  warning  'mytable' is not defined                           no-undef
+  188:9   warning  'mytable' is not defined                           no-undef
+  194:5   warning  '$' is not defined                                 no-undef
+  195:9   warning  's1' is not defined                                no-undef
+  196:9   warning  'plot3' is not defined                             no-undef
+  196:17  warning  '$' is not defined                                 no-undef
+  196:37  warning  's1' is not defined                                no-undef
+  201:27  warning  '$' is not defined                                 no-undef
+  213:5   warning  '$' is not defined                                 no-undef
+  214:9   warning  's2' is not defined                                no-undef
+  215:9   warning  'plot3' is not defined                             no-undef
+  215:17  warning  '$' is not defined                                 no-undef
+  215:37  warning  's2' is not defined                                no-undef
+  220:27  warning  '$' is not defined                                 no-undef
+  233:5   warning  '$' is not defined                                 no-undef
+  234:9   warning  's3' is not defined                                no-undef
+  235:9   warning  'plot3' is not defined                             no-undef
+  235:17  warning  '$' is not defined                                 no-undef
+  235:37  warning  's3' is not defined                                no-undef
+  240:27  warning  '$' is not defined                                 no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/bjtcbin_ver1.js
+   11:10  warning  'resbChange' is defined but never used             no-unused-vars
+   14:5   warning  'check' is not defined                             no-undef
+   18:10  warning  'rescChange' is defined but never used             no-unused-vars
+   21:4   warning  'secondres' is not defined                         no-undef
+   25:22  warning  'tabrowindex2' is assigned a value but never used  no-unused-vars
+   28:17  warning  'clmns1' is defined but never used                 no-unused-vars
+   28:25  warning  'vlt1' is defined but never used                   no-unused-vars
+   33:10  warning  'tabled' is defined but never used                 no-unused-vars
+   35:9   warning  'vbem' is assigned a value but never used          no-unused-vars
+   36:9   warning  'vbcol' is assigned a value but never used         no-unused-vars
+   89:1   warning  '$' is not defined                                 no-undef
+   90:5   warning  '$' is not defined                                 no-undef
+   91:9   warning  '$' is not defined                                 no-undef
+   92:24  warning  '$' is not defined                                 no-undef
+   98:10  warning  'plot' is defined but never used                   no-unused-vars
+  106:17  warning  'CanvasJS' is not defined                          no-undef
+  139:10  warning  'printf' is defined but never used                 no-unused-vars
+  146:10  warning  'clearf' is defined but never used                 no-unused-vars
+  166:20  warning  'mytable' is not defined                           no-undef
+  169:9   warning  'mytable' is not defined                           no-undef
+  175:5   warning  '$' is not defined                                 no-undef
+  176:9   warning  's1' is not defined                                no-undef
+  177:9   warning  'plot3' is not defined                             no-undef
+  177:17  warning  '$' is not defined                                 no-undef
+  177:37  warning  's1' is not defined                                no-undef
+  182:27  warning  '$' is not defined                                 no-undef
+  194:5   warning  '$' is not defined                                 no-undef
+  195:9   warning  's2' is not defined                                no-undef
+  196:9   warning  'plot3' is not defined                             no-undef
+  196:17  warning  '$' is not defined                                 no-undef
+  196:37  warning  's2' is not defined                                no-undef
+  201:27  warning  '$' is not defined                                 no-undef
+  214:5   warning  '$' is not defined                                 no-undef
+  215:9   warning  's3' is not defined                                no-undef
+  216:9   warning  'plot3' is not defined                             no-undef
+  216:17  warning  '$' is not defined                                 no-undef
+  216:37  warning  's3' is not defined                                no-undef
+  221:27  warning  '$' is not defined                                 no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/bjtcbop.js
+   15:10  warning  'vbeChange' is defined but never used              no-unused-vars
+   18:5   warning  'check' is not defined                             no-undef
+   22:10  warning  'vbcchange' is defined but never used              no-unused-vars
+   25:5   warning  'check' is not defined                             no-undef
+   28:10  warning  'txtchngg' is defined but never used               no-unused-vars
+   33:10  warning  'txtchngn' is defined but never used               no-unused-vars
+   38:22  warning  'tabrowindex2' is assigned a value but never used  no-unused-vars
+   41:17  warning  'clmns1' is defined but never used                 no-unused-vars
+   41:25  warning  'vlt1' is defined but never used                   no-unused-vars
+   46:10  warning  'tabled' is defined but never used                 no-unused-vars
+   48:9   warning  'iec' is assigned a value but never used           no-unused-vars
+   49:9   warning  'vbcol' is assigned a value but never used         no-unused-vars
+  104:1   warning  '$' is not defined                                 no-undef
+  105:5   warning  '$' is not defined                                 no-undef
+  106:9   warning  '$' is not defined                                 no-undef
+  107:24  warning  '$' is not defined                                 no-undef
+  113:10  warning  'plot' is defined but never used                   no-unused-vars
+  120:17  warning  'CanvasJS' is not defined                          no-undef
+  158:10  warning  'printf' is defined but never used                 no-unused-vars
+  165:10  warning  'clearf' is defined but never used                 no-unused-vars
+  184:20  warning  'mytable' is not defined                           no-undef
+  187:9   warning  'mytable' is not defined                           no-undef
+  195:5   warning  '$' is not defined                                 no-undef
+  196:9   warning  's1' is not defined                                no-undef
+  197:9   warning  'plot3' is not defined                             no-undef
+  197:17  warning  '$' is not defined                                 no-undef
+  197:37  warning  's1' is not defined                                no-undef
+  202:27  warning  '$' is not defined                                 no-undef
+  214:5   warning  '$' is not defined                                 no-undef
+  215:9   warning  's2' is not defined                                no-undef
+  216:9   warning  'plot3' is not defined                             no-undef
+  216:17  warning  '$' is not defined                                 no-undef
+  216:37  warning  's2' is not defined                                no-undef
+  221:27  warning  '$' is not defined                                 no-undef
+  234:5   warning  '$' is not defined                                 no-undef
+  235:9   warning  's3' is not defined                                no-undef
+  236:9   warning  'plot3' is not defined                             no-undef
+  236:17  warning  '$' is not defined                                 no-undef
+  236:37  warning  's3' is not defined                                no-undef
+  241:27  warning  '$' is not defined                                 no-undef
+  252:5   warning  '$' is not defined                                 no-undef
+  253:9   warning  's4' is not defined                                no-undef
+  254:9   warning  'plot3' is not defined                             no-undef
+  254:17  warning  '$' is not defined                                 no-undef
+  254:37  warning  's4' is not defined                                no-undef
+  259:27  warning  '$' is not defined                                 no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/bjtcbop_ver1.js
+    8:10  warning  'resbChange' is defined but never used             no-unused-vars
+   11:5   warning  'firstres' is not defined                          no-undef
+   15:10  warning  'rescChange' is defined but never used             no-unused-vars
+   18:4   warning  'check' is not defined                             no-undef
+   21:22  warning  'tabrowindex2' is assigned a value but never used  no-unused-vars
+   24:17  warning  'clmns1' is defined but never used                 no-unused-vars
+   24:25  warning  'vlt1' is defined but never used                   no-unused-vars
+   29:10  warning  'tabled' is defined but never used                 no-unused-vars
+   31:9   warning  'iec' is assigned a value but never used           no-unused-vars
+   32:9   warning  'vbcol' is assigned a value but never used         no-unused-vars
+   87:1   warning  '$' is not defined                                 no-undef
+   88:5   warning  '$' is not defined                                 no-undef
+   89:9   warning  '$' is not defined                                 no-undef
+   90:24  warning  '$' is not defined                                 no-undef
+   96:10  warning  'plot' is defined but never used                   no-unused-vars
+  103:17  warning  'CanvasJS' is not defined                          no-undef
+  141:10  warning  'printf' is defined but never used                 no-unused-vars
+  148:10  warning  'clearf' is defined but never used                 no-unused-vars
+  170:20  warning  'mytable' is not defined                           no-undef
+  173:9   warning  'mytable' is not defined                           no-undef
+  181:5   warning  '$' is not defined                                 no-undef
+  182:9   warning  's1' is not defined                                no-undef
+  183:9   warning  'plot3' is not defined                             no-undef
+  183:17  warning  '$' is not defined                                 no-undef
+  183:37  warning  's1' is not defined                                no-undef
+  188:27  warning  '$' is not defined                                 no-undef
+  200:5   warning  '$' is not defined                                 no-undef
+  201:9   warning  's2' is not defined                                no-undef
+  202:9   warning  'plot3' is not defined                             no-undef
+  202:17  warning  '$' is not defined                                 no-undef
+  202:37  warning  's2' is not defined                                no-undef
+  207:27  warning  '$' is not defined                                 no-undef
+  220:5   warning  '$' is not defined                                 no-undef
+  221:9   warning  's3' is not defined                                no-undef
+  222:9   warning  'plot3' is not defined                             no-undef
+  222:17  warning  '$' is not defined                                 no-undef
+  222:37  warning  's3' is not defined                                no-undef
+  227:27  warning  '$' is not defined                                 no-undef
+  238:5   warning  '$' is not defined                                 no-undef
+  239:9   warning  's4' is not defined                                no-undef
+  240:9   warning  'plot3' is not defined                             no-undef
+  240:17  warning  '$' is not defined                                 no-undef
+  240:37  warning  's4' is not defined                                no-undef
+  245:27  warning  '$' is not defined                                 no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/bjtcein.js
+    8:10  warning  'vbeChange' is defined but never used              no-unused-vars
+   11:5   warning  'check' is not defined                             no-undef
+   15:10  warning  'vcechange' is defined but never used              no-unused-vars
+   18:5   warning  'check' is not defined                             no-undef
+   21:10  warning  'txtchngg' is defined but never used               no-unused-vars
+   26:10  warning  'txtchngn' is defined but never used               no-unused-vars
+   32:22  warning  'tabrowindex2' is assigned a value but never used  no-unused-vars
+   35:19  warning  'clmns1' is defined but never used                 no-unused-vars
+   35:27  warning  'vltbe1' is defined but never used                 no-unused-vars
+   41:10  warning  'tabled' is defined but never used                 no-unused-vars
+   43:9   warning  'vbem' is assigned a value but never used          no-unused-vars
+   44:9   warning  'vcolem' is assigned a value but never used        no-unused-vars
+  101:1   warning  '$' is not defined                                 no-undef
+  102:5   warning  '$' is not defined                                 no-undef
+  103:9   warning  '$' is not defined                                 no-undef
+  104:24  warning  '$' is not defined                                 no-undef
+  110:10  warning  'plot' is defined but never used                   no-unused-vars
+  118:17  warning  'CanvasJS' is not defined                          no-undef
+  153:10  warning  'printf' is defined but never used                 no-unused-vars
+  160:10  warning  'clearfn' is defined but never used                no-unused-vars
+  176:20  warning  'mytable' is not defined                           no-undef
+  179:9   warning  'mytable' is not defined                           no-undef
+  184:5   warning  '$' is not defined                                 no-undef
+  185:9   warning  's1' is not defined                                no-undef
+  186:9   warning  'plot3' is not defined                             no-undef
+  186:17  warning  '$' is not defined                                 no-undef
+  186:37  warning  's1' is not defined                                no-undef
+  191:27  warning  '$' is not defined                                 no-undef
+  203:5   warning  '$' is not defined                                 no-undef
+  204:9   warning  's2' is not defined                                no-undef
+  205:9   warning  'plot3' is not defined                             no-undef
+  205:17  warning  '$' is not defined                                 no-undef
+  205:37  warning  's2' is not defined                                no-undef
+  210:27  warning  '$' is not defined                                 no-undef
+  223:5   warning  '$' is not defined                                 no-undef
+  224:9   warning  's3' is not defined                                no-undef
+  225:9   warning  'plot3' is not defined                             no-undef
+  225:17  warning  '$' is not defined                                 no-undef
+  225:37  warning  's3' is not defined                                no-undef
+  230:27  warning  '$' is not defined                                 no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/bjtcein_ver1.js
+    2:10  warning  'resbChange' is defined but never used             no-unused-vars
+    5:5   warning  'check' is not defined                             no-undef
+    9:10  warning  'rescChange' is defined but never used             no-unused-vars
+   12:4   warning  'secondres' is not defined                         no-undef
+   17:22  warning  'tabrowindex2' is assigned a value but never used  no-unused-vars
+   20:19  warning  'clmns1' is defined but never used                 no-unused-vars
+   20:27  warning  'vltbe1' is defined but never used                 no-unused-vars
+   26:10  warning  'tabled' is defined but never used                 no-unused-vars
+   82:1   warning  '$' is not defined                                 no-undef
+   83:5   warning  '$' is not defined                                 no-undef
+   84:9   warning  '$' is not defined                                 no-undef
+   85:24  warning  '$' is not defined                                 no-undef
+   91:10  warning  'plot' is defined but never used                   no-unused-vars
+   99:17  warning  'CanvasJS' is not defined                          no-undef
+  134:10  warning  'printf' is defined but never used                 no-unused-vars
+  187:10  warning  'clearfn' is defined but never used                no-unused-vars
+  207:20  warning  'mytable' is not defined                           no-undef
+  210:9   warning  'mytable' is not defined                           no-undef
+  215:5   warning  '$' is not defined                                 no-undef
+  216:9   warning  's1' is not defined                                no-undef
+  217:9   warning  'plot3' is not defined                             no-undef
+  217:17  warning  '$' is not defined                                 no-undef
+  217:37  warning  's1' is not defined                                no-undef
+  222:27  warning  '$' is not defined                                 no-undef
+  234:5   warning  '$' is not defined                                 no-undef
+  235:9   warning  's2' is not defined                                no-undef
+  236:9   warning  'plot3' is not defined                             no-undef
+  236:17  warning  '$' is not defined                                 no-undef
+  236:37  warning  's2' is not defined                                no-undef
+  241:27  warning  '$' is not defined                                 no-undef
+  254:5   warning  '$' is not defined                                 no-undef
+  255:9   warning  's3' is not defined                                no-undef
+  256:9   warning  'plot3' is not defined                             no-undef
+  256:17  warning  '$' is not defined                                 no-undef
+  256:37  warning  's3' is not defined                                no-undef
+  261:27  warning  '$' is not defined                                 no-undef
+  273:5   warning  '$' is not defined                                 no-undef
+  274:9   warning  's4' is not defined                                no-undef
+  275:9   warning  'plot3' is not defined                             no-undef
+  275:17  warning  '$' is not defined                                 no-undef
+  275:37  warning  's4' is not defined                                no-undef
+  280:27  warning  '$' is not defined                                 no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/bjtceop.js
+   15:10  warning  'ibChange' is defined but never used               no-unused-vars
+   18:5   warning  'check' is not defined                             no-undef
+   22:10  warning  'vcechange' is defined but never used              no-unused-vars
+   25:5   warning  'check' is not defined                             no-undef
+   28:10  warning  'txtchngg' is defined but never used               no-unused-vars
+   33:10  warning  'txtchngn' is defined but never used               no-unused-vars
+   38:22  warning  'tabrowindex2' is assigned a value but never used  no-unused-vars
+   41:19  warning  'clmns1' is defined but never used                 no-unused-vars
+   41:27  warning  'vltce1' is defined but never used                 no-unused-vars
+   43:22  warning  'dataPoints1' is assigned a value but never used   no-unused-vars
+   47:10  warning  'tabled' is defined but never used                 no-unused-vars
+  100:1   warning  '$' is not defined                                 no-undef
+  101:5   warning  '$' is not defined                                 no-undef
+  102:9   warning  '$' is not defined                                 no-undef
+  103:24  warning  '$' is not defined                                 no-undef
+  109:10  warning  'plot' is defined but never used                   no-unused-vars
+  115:17  warning  'CanvasJS' is not defined                          no-undef
+  150:10  warning  'printf' is defined but never used                 no-unused-vars
+  158:10  warning  'clearf' is defined but never used                 no-unused-vars
+  174:20  warning  'mytable' is not defined                           no-undef
+  177:9   warning  'mytable' is not defined                           no-undef
+  204:5   warning  '$' is not defined                                 no-undef
+  205:9   warning  's1' is not defined                                no-undef
+  206:9   warning  'plot3' is not defined                             no-undef
+  206:17  warning  '$' is not defined                                 no-undef
+  206:37  warning  's1' is not defined                                no-undef
+  211:27  warning  '$' is not defined                                 no-undef
+  224:5   warning  '$' is not defined                                 no-undef
+  225:9   warning  's2' is not defined                                no-undef
+  226:9   warning  'plot3' is not defined                             no-undef
+  226:17  warning  '$' is not defined                                 no-undef
+  226:37  warning  's2' is not defined                                no-undef
+  231:27  warning  '$' is not defined                                 no-undef
+  242:5   warning  '$' is not defined                                 no-undef
+  243:9   warning  's3' is not defined                                no-undef
+  244:9   warning  'plot3' is not defined                             no-undef
+  244:17  warning  '$' is not defined                                 no-undef
+  244:37  warning  's3' is not defined                                no-undef
+  249:27  warning  '$' is not defined                                 no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/bjtceop_ver1.js
+    3:10  warning  'resbChange' is defined but never used             no-unused-vars
+    6:4   warning  'firstres' is not defined                          no-undef
+   10:10  warning  'rescChange' is defined but never used             no-unused-vars
+   13:4   warning  'check' is not defined                             no-undef
+   19:22  warning  'tabrowindex2' is assigned a value but never used  no-unused-vars
+   22:19  warning  'clmns1' is defined but never used                 no-unused-vars
+   22:27  warning  'vltce1' is defined but never used                 no-unused-vars
+   24:22  warning  'dataPoints1' is assigned a value but never used   no-unused-vars
+   28:10  warning  'tabled' is defined but never used                 no-unused-vars
+   81:1   warning  '$' is not defined                                 no-undef
+   82:5   warning  '$' is not defined                                 no-undef
+   83:9   warning  '$' is not defined                                 no-undef
+   84:24  warning  '$' is not defined                                 no-undef
+   90:10  warning  'plot' is defined but never used                   no-unused-vars
+   96:17  warning  'CanvasJS' is not defined                          no-undef
+  131:10  warning  'printf' is defined but never used                 no-unused-vars
+  139:10  warning  'clearf' is defined but never used                 no-unused-vars
+  157:20  warning  'mytable' is not defined                           no-undef
+  160:9   warning  'mytable' is not defined                           no-undef
+  168:5   warning  '$' is not defined                                 no-undef
+  169:9   warning  's1' is not defined                                no-undef
+  170:9   warning  'plot3' is not defined                             no-undef
+  170:17  warning  '$' is not defined                                 no-undef
+  170:37  warning  's1' is not defined                                no-undef
+  175:27  warning  '$' is not defined                                 no-undef
+  187:5   warning  '$' is not defined                                 no-undef
+  188:9   warning  's2' is not defined                                no-undef
+  189:9   warning  'plot3' is not defined                             no-undef
+  189:17  warning  '$' is not defined                                 no-undef
+  189:37  warning  's2' is not defined                                no-undef
+  194:27  warning  '$' is not defined                                 no-undef
+  207:5   warning  '$' is not defined                                 no-undef
+  208:9   warning  's3' is not defined                                no-undef
+  209:9   warning  'plot3' is not defined                             no-undef
+  209:17  warning  '$' is not defined                                 no-undef
+  209:37  warning  's3' is not defined                                no-undef
+  214:27  warning  '$' is not defined                                 no-undef
+  226:5   warning  '$' is not defined                                 no-undef
+  227:9   warning  's4' is not defined                                no-undef
+  228:9   warning  'plot3' is not defined                             no-undef
+  228:17  warning  '$' is not defined                                 no-undef
+  228:37  warning  's4' is not defined                                no-undef
+  233:27  warning  '$' is not defined                                 no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/canvasjs.min.js
+    82:20   warning  'd' is already defined                                                     no-redeclare
+   122:13   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   186:59   warning  'G_vmlCanvasManager' is not defined                                        no-undef
+   199:70   warning  'g' is already defined                                                     no-redeclare
+   199:114  warning  'h' is already defined                                                     no-redeclare
+   211:21   warning  Read-only global 'event' should not be modified                            no-global-assign
+   258:10   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   449:22   warning  'this.label' is assigned to itself                                         no-self-assign
+   613:13   warning  'g' is already defined                                                     no-redeclare
+   613:92   warning  'h' is already defined                                                     no-redeclare
+   643:32   warning  'g' is already defined                                                     no-redeclare
+   677:19   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   827:44   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   965:99   warning  Duplicate key 'cursor'                                                     no-dupe-keys
+  1099:27   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1102:27   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1228:13   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1240:48   warning  'c' is defined but never used                                              no-unused-vars
+  1240:51   warning  'b' is defined but never used                                              no-unused-vars
+  1285:29   warning  Empty block statement                                                      no-empty
+  1323:156  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1326:49   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1354:28   warning  'f' is already defined                                                     no-redeclare
+  1354:35   warning  'e' is already defined                                                     no-redeclare
+  1378:45   warning  'e' is already defined                                                     no-redeclare
+  1391:25   warning  'd' is already defined                                                     no-redeclare
+  1418:17   warning  'g' is already defined                                                     no-redeclare
+  1420:28   warning  'l' is already defined                                                     no-redeclare
+  1420:35   warning  'm' is already defined                                                     no-redeclare
+  1445:137  warning  'g' is already defined                                                     no-redeclare
+  1445:193  warning  'h' is already defined                                                     no-redeclare
+  1448:17   warning  'f' is already defined                                                     no-redeclare
+  1449:49   warning  'd' is already defined                                                     no-redeclare
+  1449:105  warning  'e' is already defined                                                     no-redeclare
+  1449:459  warning  'b' is already defined                                                     no-redeclare
+  1458:21   warning  's' is already defined                                                     no-redeclare
+  1458:78   warning  'z' is already defined                                                     no-redeclare
+  1458:210  warning  'p' is already defined                                                     no-redeclare
+  1509:22   warning  'd' is already defined                                                     no-redeclare
+  1515:47   warning  'q' is already defined                                                     no-redeclare
+  1523:21   warning  'm' is already defined                                                     no-redeclare
+  1528:38   warning  'r' is already defined                                                     no-redeclare
+  1571:22   warning  'd' is already defined                                                     no-redeclare
+  1576:73   warning  'q' is already defined                                                     no-redeclare
+  1585:21   warning  'm' is already defined                                                     no-redeclare
+  1590:38   warning  'r' is already defined                                                     no-redeclare
+  1647:22   warning  'e' is already defined                                                     no-redeclare
+  1652:73   warning  'k' is already defined                                                     no-redeclare
+  1661:21   warning  'l' is already defined                                                     no-redeclare
+  1724:114  warning  'e' is already defined                                                     no-redeclare
+  1740:21   warning  'k' is already defined                                                     no-redeclare
+  1742:69   warning  'e' is already defined                                                     no-redeclare
+  1771:210  warning  'g' is already defined                                                     no-redeclare
+  1824:70   warning  'g' is already defined                                                     no-redeclare
+  1842:69   warning  'g' is already defined                                                     no-redeclare
+  1875:200  warning  'e' is already defined                                                     no-redeclare
+  1891:21   warning  'k' is already defined                                                     no-redeclare
+  1925:70   warning  'g' is already defined                                                     no-redeclare
+  1978:210  warning  'g' is already defined                                                     no-redeclare
+  2044:43   warning  'g' is already defined                                                     no-redeclare
+  2048:21   warning  'g' is already defined                                                     no-redeclare
+  2057:33   warning  'A' is already defined                                                     no-redeclare
+  2128:85   warning  'g' is already defined                                                     no-redeclare
+  2132:21   warning  'g' is already defined                                                     no-redeclare
+  2141:51   warning  'v' is already defined                                                     no-redeclare
+  2191:85   warning  'g' is already defined                                                     no-redeclare
+  2195:21   warning  'g' is already defined                                                     no-redeclare
+  2204:77   warning  'H' is already defined                                                     no-redeclare
+  2253:30   warning  'f' is already defined                                                     no-redeclare
+  2272:25   warning  'd' is already defined                                                     no-redeclare
+  2278:77   warning  'v' is already defined                                                     no-redeclare
+  2282:33   warning  'k' is already defined                                                     no-redeclare
+  2284:39   warning  'I' is already defined                                                     no-redeclare
+  2303:92   warning  'markerColor' is not defined                                               no-undef
+  2303:180  warning  'markerColor' is not defined                                               no-undef
+  2303:206  warning  'markerColor' is not defined                                               no-undef
+  2338:315  warning  't' is already defined                                                     no-redeclare
+  2345:30   warning  'e' is already defined                                                     no-redeclare
+  2365:25   warning  'd' is already defined                                                     no-redeclare
+  2371:77   warning  'H' is already defined                                                     no-redeclare
+  2374:38   warning  'k' is already defined                                                     no-redeclare
+  2376:39   warning  'S' is already defined                                                     no-redeclare
+  2397:178  warning  'markerColor' is not defined                                               no-undef
+  2398:44   warning  'markerColor' is not defined                                               no-undef
+  2398:70   warning  'markerColor' is not defined                                               no-undef
+  2417:127  warning  'e' is already defined                                                     no-redeclare
+  2417:157  warning  'b' is already defined                                                     no-redeclare
+  2426:97   warning  'e' is already defined                                                     no-redeclare
+  2428:40   warning  'd' is already defined                                                     no-redeclare
+  2428:120  warning  'n' is already defined                                                     no-redeclare
+  2436:33   warning  'r' is already defined                                                     no-redeclare
+  2436:145  warning  'r' is already defined                                                     no-redeclare
+  2456:127  warning  'e' is already defined                                                     no-redeclare
+  2456:157  warning  'b' is already defined                                                     no-redeclare
+  2471:44   warning  'e' is already defined                                                     no-redeclare
+  2494:35   warning  'd' is already defined                                                     no-redeclare
+  2494:79   warning  'e' is already defined                                                     no-redeclare
+  2514:77   warning  'e' is already defined                                                     no-redeclare
+  2523:77   warning  'd' is already defined                                                     no-redeclare
+  2544:59   warning  'e' is already defined                                                     no-redeclare
+  2563:69   warning  'e' is already defined                                                     no-redeclare
+  2569:136  warning  'b' is already defined                                                     no-redeclare
+  2571:44   warning  'd' is already defined                                                     no-redeclare
+  2593:70   warning  'e' is already defined                                                     no-redeclare
+  2681:101  warning  'e' is already defined                                                     no-redeclare
+  2685:29   warning  'e' is already defined                                                     no-redeclare
+  2694:85   warning  'x' is already defined                                                     no-redeclare
+  2794:85   warning  'e' is already defined                                                     no-redeclare
+  2798:21   warning  'e' is already defined                                                     no-redeclare
+  2805:77   warning  'z' is already defined                                                     no-redeclare
+  2869:69   warning  'm' is already defined                                                     no-redeclare
+  2956:24   warning  'c' is already defined                                                     no-redeclare
+  2982:35   warning  'q' is already defined                                                     no-redeclare
+  3021:48   warning  'b' is already defined                                                     no-redeclare
+  3037:36   warning  'a' is already defined                                                     no-redeclare
+  3038:29   warning  'h' is already defined                                                     no-redeclare
+  3042:40   warning  'B' is already defined                                                     no-redeclare
+  3047:37   warning  'C' is already defined                                                     no-redeclare
+  3083:37   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3218:17   warning  'f' is already defined                                                     no-redeclare
+  3268:17   warning  'f' is already defined                                                     no-redeclare
+  3294:386  warning  'p' is already defined                                                     no-redeclare
+  3294:453  warning  'l' is already defined                                                     no-redeclare
+  3299:46   warning  'l' is already defined                                                     no-redeclare
+  3299:168  warning  'p' is already defined                                                     no-redeclare
+  3299:420  warning  'r' is already defined                                                     no-redeclare
+  3300:150  warning  't' is already defined                                                     no-redeclare
+  3300:178  warning  'u' is already defined                                                     no-redeclare
+  3300:359  warning  's' is already defined                                                     no-redeclare
+  3300:582  warning  'p' is already defined                                                     no-redeclare
+  3301:39   warning  'l' is already defined                                                     no-redeclare
+  3423:21   warning  'd' is already defined                                                     no-redeclare
+  3469:84   warning  'r' is already defined                                                     no-redeclare
+  3528:26   warning  'b' is already defined                                                     no-redeclare
+  3544:69   warning  'f' is already defined                                                     no-redeclare
+  3544:77   warning  'b' is already defined                                                     no-redeclare
+  3629:80   warning  'e' is already defined                                                     no-redeclare
+  3649:49   warning  'e' is already defined                                                     no-redeclare
+  3714:34   warning  'j' is not defined                                                         no-undef
+  3714:45   warning  'j' is not defined                                                         no-undef
+  3714:59   warning  'j' is not defined                                                         no-undef
+  3715:43   warning  'j' is not defined                                                         no-undef
+  3718:34   warning  'j' is not defined                                                         no-undef
+  3718:45   warning  'j' is not defined                                                         no-undef
+  3718:59   warning  'j' is not defined                                                         no-undef
+  3719:43   warning  'j' is not defined                                                         no-undef
+  3722:34   warning  'j' is not defined                                                         no-undef
+  3722:45   warning  'j' is not defined                                                         no-undef
+  3722:59   warning  'j' is not defined                                                         no-undef
+  3723:43   warning  'j' is not defined                                                         no-undef
+  3778:34   warning  'j' is not defined                                                         no-undef
+  3778:45   warning  'j' is not defined                                                         no-undef
+  3778:59   warning  'j' is not defined                                                         no-undef
+  3779:43   warning  'j' is not defined                                                         no-undef
+  3782:34   warning  'j' is not defined                                                         no-undef
+  3782:45   warning  'j' is not defined                                                         no-undef
+  3782:59   warning  'j' is not defined                                                         no-undef
+  3783:43   warning  'j' is not defined                                                         no-undef
+  3786:34   warning  'j' is not defined                                                         no-undef
+  3786:45   warning  'j' is not defined                                                         no-undef
+  3786:59   warning  'j' is not defined                                                         no-undef
+  3787:43   warning  'j' is not defined                                                         no-undef
+  3836:25   warning  'e' is already defined                                                     no-redeclare
+  3877:42   warning  'd' is already defined                                                     no-redeclare
+  3979:16   warning  'c' is assigned a value but never used                                     no-unused-vars
+  4008:13   warning  'a' is already defined                                                     no-redeclare
+  4077:68   warning  'a' is already defined                                                     no-redeclare
+  4202:21   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4255:33   warning  Empty block statement                                                      no-empty
+  4286:21   warning  'd' is already defined                                                     no-redeclare
+  4309:30   warning  'h' is already defined                                                     no-redeclare
+  4367:18   warning  'i' is not defined                                                         no-undef
+  4367:29   warning  'i' is not defined                                                         no-undef
+  4367:54   warning  'i' is not defined                                                         no-undef
+  4368:36   warning  'i' is not defined                                                         no-undef
+  4369:44   warning  'i' is not defined                                                         no-undef
+  4378:82   warning  'h' is already defined                                                     no-redeclare
+  4378:116  warning  'g' is already defined                                                     no-redeclare
+  4384:25   warning  'q' is already defined                                                     no-redeclare
+  4404:25   warning  Empty block statement                                                      no-empty
+  4409:19   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4411:24   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4590:22   warning  'c' is defined but never used                                              no-unused-vars
+  4654:63   warning  'b' is already defined                                                     no-redeclare
+  4734:48   warning  'c' is already defined                                                     no-redeclare
+  4746:53   warning  'h' is already defined                                                     no-redeclare
+  4746:69   warning  'h' is already defined                                                     no-redeclare
+  4761:22   warning  'n' is already defined                                                     no-redeclare
+  4846:57   warning  'd' is already defined                                                     no-redeclare
+  4939:32   warning  'b' is defined but never used                                              no-unused-vars
+  5063:25   warning  Empty block statement                                                      no-empty
+  5067:13   warning  'l' is already defined                                                     no-redeclare
+  5169:5    warning  'G_vmlCanvasManager' is not defined                                        no-undef
+  5170:5    warning  Read-only global 'CanvasRenderingContext2D' should not be modified         no-global-assign
+  5171:5    warning  Read-only global 'CanvasGradient' should not be modified                   no-global-assign
+  5172:5    warning  Read-only global 'CanvasPattern' should not be modified                    no-global-assign
+  5173:5    warning  Read-only global 'DOMException' should not be modified                     no-global-assign
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/jqplot.meterGaugeRenderer.min.js
+  134:25     warning  'f' is already defined                   no-redeclare
+  153:64     warning  'j' is defined but never used            no-unused-vars
+  155:13     warning  'e' is assigned a value but never used   no-unused-vars
+  158:17     warning  'h' is already defined                   no-redeclare
+  159:67     warning  'k' is defined but never used            no-unused-vars
+  160:31     warning  'e' is assigned a value but never used   no-unused-vars
+  165:17     warning  'h' is already defined                   no-redeclare
+  183:25     warning  'm' is assigned a value but never used   no-unused-vars
+  184:25     warning  'N' is assigned a value but never used   no-unused-vars
+  185:25     warning  'I' is assigned a value but never used   no-unused-vars
+  229:40     warning  'E' is already defined                   no-redeclare
+  231:37     warning  'O' is already defined                   no-redeclare
+  232:526    warning  'C' is defined but never used            no-unused-vars
+  232:818    warning  'O' is already defined                   no-redeclare
+  232:1362   warning  'H' is assigned a value but never used   no-unused-vars
+  232:1372   warning  'e' is assigned a value but never used   no-unused-vars
+  232:1885   warning  'aa' is already defined                  no-redeclare
+  232:2225   warning  'aa' is already defined                  no-redeclare
+  232:3013   warning  'ae' is assigned a value but never used  no-unused-vars
+  232:3603   warning  'T' is already defined                   no-redeclare
+  232:3620   warning  'an' is already defined                  no-redeclare
+  232:4310   warning  'W' is already defined                   no-redeclare
+  232:4358   warning  'an' is already defined                  no-redeclare
+  232:4409   warning  'T' is already defined                   no-redeclare
+  232:4750   warning  'W' is already defined                   no-redeclare
+  232:4833   warning  'T' is already defined                   no-redeclare
+  232:5188   warning  'ag' is already defined                  no-redeclare
+  232:5257   warning  'ag' is already defined                  no-redeclare
+  232:5289   warning  'P' is already defined                   no-redeclare
+  232:5313   warning  'aD' is assigned a value but never used  no-unused-vars
+  232:6353   warning  'aa' is already defined                  no-redeclare
+  232:9931   warning  'e' is defined but never used            no-unused-vars
+  232:10247  warning  'jQuery' is not defined                  no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/jquery.jqplot.min.js
+  266:18     warning  'ac' is already defined                                                    no-redeclare
+  273:30     warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  331:82     warning  'ab' is already defined                                                    no-redeclare
+  405:26     warning  'ac' is already defined                                                    no-redeclare
+  445:21     warning  'ad' is assigned a value but never used                                    no-unused-vars
+  448:26     warning  'am' is already defined                                                    no-redeclare
+  463:26     warning  'am' is already defined                                                    no-redeclare
+  483:66     warning  'am' is already defined                                                    no-redeclare
+  488:26     warning  'ak' is already defined                                                    no-redeclare
+  490:181    warning  'ak' is already defined                                                    no-redeclare
+  490:376    warning  'ak' is already defined                                                    no-redeclare
+  490:660    warning  'am' is already defined                                                    no-redeclare
+  490:668    warning  'aj' is already defined                                                    no-redeclare
+  490:1100   warning  'am' is already defined                                                    no-redeclare
+  490:1216   warning  'am' is already defined                                                    no-redeclare
+  490:1909   warning  'ao' is already defined                                                    no-redeclare
+  490:2572   warning  'ao' is already defined                                                    no-redeclare
+  490:2667   warning  'am' is already defined                                                    no-redeclare
+  495:344    warning  'ao' is already defined                                                    no-redeclare
+  495:352    warning  'ak' is already defined                                                    no-redeclare
+  495:595    warning  'am' is already defined                                                    no-redeclare
+  495:788    warning  'am' is already defined                                                    no-redeclare
+  495:1140   warning  'am' is already defined                                                    no-redeclare
+  495:1335   warning  'am' is already defined                                                    no-redeclare
+  495:1607   warning  'ao' is already defined                                                    no-redeclare
+  495:1615   warning  'ak' is already defined                                                    no-redeclare
+  495:2036   warning  'ao' is already defined                                                    no-redeclare
+  495:2044   warning  'ak' is already defined                                                    no-redeclare
+  495:2161   warning  'ao' is already defined                                                    no-redeclare
+  495:2169   warning  'ak' is already defined                                                    no-redeclare
+  495:3763   warning  'ai' is already defined                                                    no-redeclare
+  495:4211   warning  'ao' is defined but never used                                             no-unused-vars
+  495:4215   warning  'ap' is defined but never used                                             no-unused-vars
+  495:4219   warning  'af' is defined but never used                                             no-unused-vars
+  495:4223   warning  'am' is defined but never used                                             no-unused-vars
+  495:4608   warning  'ai' is already defined                                                    no-redeclare
+  495:4998   warning  'am' is assigned a value but never used                                    no-unused-vars
+  495:5470   warning  'ai' is already defined                                                    no-redeclare
+  495:6228   warning  'al' is already defined                                                    no-redeclare
+  495:6626   warning  'al' is already defined                                                    no-redeclare
+  495:7308   warning  'al' is already defined                                                    no-redeclare
+  495:7805   warning  'an' is assigned a value but never used                                    no-unused-vars
+  495:7840   warning  'al' is already defined                                                    no-redeclare
+  495:7881   warning  'ap' is already defined                                                    no-redeclare
+  495:8079   warning  'ak' is already defined                                                    no-redeclare
+  495:9182   warning  'ak' is already defined                                                    no-redeclare
+  495:9372   warning  'ak' is already defined                                                    no-redeclare
+  495:9613   warning  'al' is already defined                                                    no-redeclare
+  495:9621   warning  'aj' is already defined                                                    no-redeclare
+  495:9655   warning  'ag' is already defined                                                    no-redeclare
+  495:9671   warning  'ai' is already defined                                                    no-redeclare
+  495:10027  warning  'al' is already defined                                                    no-redeclare
+  495:10144  warning  'al' is already defined                                                    no-redeclare
+  495:11566  warning  'ai' is defined but never used                                             no-unused-vars
+  495:13574  warning  'au' is already defined                                                    no-redeclare
+  496:2290   warning  'aB' is already defined                                                    no-redeclare
+  496:2298   warning  'ay' is already defined                                                    no-redeclare
+  496:2476   warning  'aB' is already defined                                                    no-redeclare
+  496:2484   warning  'ay' is already defined                                                    no-redeclare
+  496:2871   warning  'aB' is already defined                                                    no-redeclare
+  496:2879   warning  'ay' is already defined                                                    no-redeclare
+  496:2977   warning  'aB' is already defined                                                    no-redeclare
+  496:2985   warning  'ay' is already defined                                                    no-redeclare
+  496:4177   warning  'aj' is already defined                                                    no-redeclare
+  496:4293   warning  'am' is already defined                                                    no-redeclare
+  496:6014   warning  'al' is defined but never used                                             no-unused-vars
+  496:6022   warning  'aG' is defined but never used                                             no-unused-vars
+  496:8730   warning  'aO' is already defined                                                    no-redeclare
+  496:9145   warning  Unexpected lexical declaration in case block                               no-case-declarations
+  496:9145   warning  Move function declaration to function body root                            no-inner-declarations
+  496:9937   warning  'aO' is already defined                                                    no-redeclare
+  496:9959   warning  'aA' is already defined                                                    no-redeclare
+  496:10446  warning  'aO' is already defined                                                    no-redeclare
+  496:10824  warning  'ao' is already defined                                                    no-redeclare
+  496:11053  warning  'ao' is already defined                                                    no-redeclare
+  500:26     warning  'aO' is already defined                                                    no-redeclare
+  502:33     warning  'ao' is already defined                                                    no-redeclare
+  502:281    warning  'ao' is already defined                                                    no-redeclare
+  502:510    warning  'ao' is already defined                                                    no-redeclare
+  502:2135   warning  'af' is already defined                                                    no-redeclare
+  502:4928   warning  'ak' is defined but never used                                             no-unused-vars
+  502:5490   warning  'ai' is defined but never used                                             no-unused-vars
+  502:6475   warning  'af' is already defined                                                    no-redeclare
+  502:6517   warning  'ab' is already defined                                                    no-redeclare
+  502:6549   warning  'ah' is already defined                                                    no-redeclare
+  502:6586   warning  'ad' is already defined                                                    no-redeclare
+  511:5175   warning  'ab' is defined but never used                                             no-unused-vars
+  511:5179   warning  'ac' is defined but never used                                             no-unused-vars
+  511:10928  warning  'ae' is already defined                                                    no-redeclare
+  511:11796  warning  'ae' is already defined                                                    no-redeclare
+  511:12676  warning  'ae' is already defined                                                    no-redeclare
+  513:37     warning  'ae' is already defined                                                    no-redeclare
+  522:18     warning  'aq' is already defined                                                    no-redeclare
+  522:44     warning  'ab' is already defined                                                    no-redeclare
+  523:13     warning  'au' is already defined                                                    no-redeclare
+  526:240    warning  'an' is already defined                                                    no-redeclare
+  526:274    warning  'ah' is already defined                                                    no-redeclare
+  526:327    warning  'ae' is already defined                                                    no-redeclare
+  526:1117   warning  'ao' is already defined                                                    no-redeclare
+  526:2133   warning  'ae' is assigned a value but never used                                    no-unused-vars
+  526:3869   warning  Unexpected constant condition                                              no-constant-condition
+  526:7660   warning  'ao' is defined but never used                                             no-unused-vars
+  526:8107   warning  'ap' is already defined                                                    no-redeclare
+  526:8115   warning  'am' is already defined                                                    no-redeclare
+  526:8535   warning  'ap' is already defined                                                    no-redeclare
+  526:8543   warning  'am' is already defined                                                    no-redeclare
+  526:8734   warning  'ad' is already defined                                                    no-redeclare
+  526:8770   warning  'aw' is already defined                                                    no-redeclare
+  526:8794   warning  'ap' is already defined                                                    no-redeclare
+  526:8802   warning  'am' is already defined                                                    no-redeclare
+  526:9536   warning  'ap' is already defined                                                    no-redeclare
+  526:9544   warning  'am' is already defined                                                    no-redeclare
+  526:9933   warning  'ap' is already defined                                                    no-redeclare
+  526:9941   warning  'am' is already defined                                                    no-redeclare
+  526:10069  warning  'ap' is already defined                                                    no-redeclare
+  526:10077  warning  'am' is already defined                                                    no-redeclare
+  526:10456  warning  'k' is defined but never used                                              no-unused-vars
+  526:10832  warning  'ag' is assigned a value but never used                                    no-unused-vars
+  526:11314  warning  'ay' is already defined                                                    no-redeclare
+  526:12646  warning  'aw' is already defined                                                    no-redeclare
+  526:12654  warning  'au' is already defined                                                    no-redeclare
+  526:13111  warning  'aD' is assigned a value but never used                                    no-unused-vars
+  526:13280  warning  'ap' is assigned a value but never used                                    no-unused-vars
+  526:13293  warning  'ad' is assigned a value but never used                                    no-unused-vars
+  526:14781  warning  'aj' is defined but never used                                             no-unused-vars
+  526:16134  warning  'ah' is already defined                                                    no-redeclare
+  526:16142  warning  'ad' is already defined                                                    no-redeclare
+  526:16306  warning  'ah' is already defined                                                    no-redeclare
+  526:16314  warning  'ad' is already defined                                                    no-redeclare
+  526:17313  warning  'ak' is defined but never used                                             no-unused-vars
+  526:17400  warning  'ad' is assigned a value but never used                                    no-unused-vars
+  526:18150  warning  'ah' is already defined                                                    no-redeclare
+  526:18322  warning  'ah' is already defined                                                    no-redeclare
+  526:18330  warning  'ae' is already defined                                                    no-redeclare
+  526:19305  warning  'av' is defined but never used                                             no-unused-vars
+  526:20002  warning  'ad' is assigned a value but never used                                    no-unused-vars
+  526:20169  warning  'aw' is already defined                                                    no-redeclare
+  526:20703  warning  'ai' is assigned a value but never used                                    no-unused-vars
+  526:21033  warning  'aw' is already defined                                                    no-redeclare
+  526:21224  warning  'aB' is already defined                                                    no-redeclare
+  526:21392  warning  'an' is already defined                                                    no-redeclare
+  526:21426  warning  'aw' is already defined                                                    no-redeclare
+  526:22784  warning  'al' is already defined                                                    no-redeclare
+  526:23562  warning  'ab' is defined but never used                                             no-unused-vars
+  526:23566  warning  'ad' is defined but never used                                             no-unused-vars
+  526:23570  warning  'ac' is defined but never used                                             no-unused-vars
+  526:23588  warning  'ae' is defined but never used                                             no-unused-vars
+  526:23592  warning  'ad' is defined but never used                                             no-unused-vars
+  526:23596  warning  'ab' is defined but never used                                             no-unused-vars
+  526:25308  warning  'jQuery' is not defined                                                    no-undef
+  526:25526  warning  'jQuery' is not defined                                                    no-undef
+  526:25934  warning  'jQuery' is not defined                                                    no-undef
+  526:26386  warning  'jQuery' is not defined                                                    no-undef
+  526:26723  warning  'jQuery' is not defined                                                    no-undef
+  526:27739  warning  'ah' is assigned a value but never used                                    no-unused-vars
+  526:27751  warning  'ac' is defined but never used                                             no-unused-vars
+  526:30348  warning  'ah' is defined but never used                                             no-unused-vars
+  526:30368  warning  'aj' is defined but never used                                             no-unused-vars
+  526:30372  warning  'ai' is defined but never used                                             no-unused-vars
+  526:33377  warning  'au' is assigned a value but never used                                    no-unused-vars
+  526:33440  warning  'aU' is already defined                                                    no-redeclare
+  526:35756  warning  'am' is already defined                                                    no-redeclare
+  526:36481  warning  'az' is already defined                                                    no-redeclare
+  526:36541  warning  'aG' is already defined                                                    no-redeclare
+  526:36608  warning  'am' is already defined                                                    no-redeclare
+  526:37002  warning  'aF' is already defined                                                    no-redeclare
+  526:37118  warning  Unnecessary escape character: \%                                           no-useless-escape
+  526:37810  warning  'aR' is already defined                                                    no-redeclare
+  526:38020  warning  'aR' is already defined                                                    no-redeclare
+  526:38653  warning  'aO' is already defined                                                    no-redeclare
+  526:38670  warning  'aU' is already defined                                                    no-redeclare
+  526:38882  warning  'aT' is already defined                                                    no-redeclare
+  526:39266  warning  'aN' is assigned a value but never used                                    no-unused-vars
+  526:42774  warning  'ao' is already defined                                                    no-redeclare
+  526:42808  warning  'aj' is already defined                                                    no-redeclare
+  526:42854  warning  'ab' is already defined                                                    no-redeclare
+  526:42929  warning  'aq' is already defined                                                    no-redeclare
+  526:43536  warning  'at' is already defined                                                    no-redeclare
+  526:44150  warning  'b' is assigned a value but never used                                     no-unused-vars
+  526:44262  warning  'i' is assigned a value but never used                                     no-unused-vars
+  526:46925  warning  'aj' is already defined                                                    no-redeclare
+  526:49007  warning  'ag' is defined but never used                                             no-unused-vars
+  526:49011  warning  'ak' is defined but never used                                             no-unused-vars
+  526:49489  warning  'ag' is defined but never used                                             no-unused-vars
+  526:49493  warning  'ak' is defined but never used                                             no-unused-vars
+  526:50047  warning  'ah' is assigned a value but never used                                    no-unused-vars
+  526:58479  warning  'ac' is already defined                                                    no-redeclare
+  526:58567  warning  'ab' is already defined                                                    no-redeclare
+  526:58655  warning  'ac' is already defined                                                    no-redeclare
+  526:58674  warning  'ab' is already defined                                                    no-redeclare
+  526:58742  warning  'ac' is already defined                                                    no-redeclare
+  526:58761  warning  'ab' is already defined                                                    no-redeclare
+  526:58903  warning  'ac' is already defined                                                    no-redeclare
+  526:58922  warning  'ab' is already defined                                                    no-redeclare
+  526:58996  warning  'ac' is already defined                                                    no-redeclare
+  526:59084  warning  'ab' is already defined                                                    no-redeclare
+  526:59158  warning  'ac' is already defined                                                    no-redeclare
+  526:59176  warning  'ab' is already defined                                                    no-redeclare
+  526:59249  warning  'ac' is already defined                                                    no-redeclare
+  526:59267  warning  'ab' is already defined                                                    no-redeclare
+  526:59407  warning  'ac' is already defined                                                    no-redeclare
+  526:59426  warning  'ab' is already defined                                                    no-redeclare
+  526:59563  warning  'ac' is already defined                                                    no-redeclare
+  526:59610  warning  'ab' is already defined                                                    no-redeclare
+  526:59698  warning  'ac' is already defined                                                    no-redeclare
+  526:59786  warning  'ab' is already defined                                                    no-redeclare
+  526:59907  warning  'ac' is already defined                                                    no-redeclare
+  526:59955  warning  'ab' is already defined                                                    no-redeclare
+  526:60022  warning  'ac' is already defined                                                    no-redeclare
+  526:60070  warning  'ab' is already defined                                                    no-redeclare
+  526:60211  warning  'ac' is already defined                                                    no-redeclare
+  526:60259  warning  'ab' is already defined                                                    no-redeclare
+  526:60332  warning  'ac' is already defined                                                    no-redeclare
+  526:60420  warning  'ab' is already defined                                                    no-redeclare
+  526:60521  warning  'ac' is already defined                                                    no-redeclare
+  526:60568  warning  'ab' is already defined                                                    no-redeclare
+  526:60642  warning  'ac' is already defined                                                    no-redeclare
+  526:60689  warning  'ab' is already defined                                                    no-redeclare
+  526:60830  warning  'ac' is already defined                                                    no-redeclare
+  526:60849  warning  'ab' is already defined                                                    no-redeclare
+  526:61006  warning  'ac' is already defined                                                    no-redeclare
+  526:61203  warning  'ab' is already defined                                                    no-redeclare
+  526:61418  warning  'ac' is already defined                                                    no-redeclare
+  526:61632  warning  'ab' is already defined                                                    no-redeclare
+  526:63564  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:64698  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:64822  warning  'am' is assigned a value but never used                                    no-unused-vars
+  526:64834  warning  'al' is assigned a value but never used                                    no-unused-vars
+  526:65779  warning  'ad' is already defined                                                    no-redeclare
+  526:66234  warning  'aq' is assigned a value but never used                                    no-unused-vars
+  526:67066  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:67950  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:68788  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:68900  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:69225  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:69339  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:69363  warning  'ac' is already defined                                                    no-redeclare
+  526:74661  warning  'aF' is assigned a value but never used                                    no-unused-vars
+  526:75208  warning  'aD' is already defined                                                    no-redeclare
+  526:77541  warning  'aB' is assigned a value but never used                                    no-unused-vars
+  526:78303  warning  'ad' is assigned a value but never used                                    no-unused-vars
+  526:79914  warning  'ae' is already defined                                                    no-redeclare
+  526:89127  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:90503  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:90559  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:90609  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:90665  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  526:90913  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  526:92733  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:92749  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:92814  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:92830  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:92994  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:93010  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:93089  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:93106  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:93436  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:93453  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:93520  warning  'ah' is already defined                                                    no-redeclare
+  526:93550  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:93567  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:94308  warning  Unnecessary escape character: \:                                           no-useless-escape
+  526:94327  warning  Unnecessary escape character: \:                                           no-useless-escape
+  526:94453  warning  'ad' is already defined                                                    no-redeclare
+  526:94800  warning  Unnecessary escape character: \:                                           no-useless-escape
+  526:94812  warning  Unnecessary escape character: \:                                           no-useless-escape
+  526:94832  warning  Unnecessary escape character: \+                                           no-useless-escape
+  526:94834  warning  Unnecessary escape character: \-                                           no-useless-escape
+  526:94841  warning  Unnecessary escape character: \:                                           no-useless-escape
+  526:94939  warning  'ad' is already defined                                                    no-redeclare
+  526:95168  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:95200  warning  Unnecessary escape character: \/                                           no-useless-escape
+  526:95430  warning  'aj' is already defined                                                    no-redeclare
+  532:2305   warning  'al' is already defined                                                    no-redeclare
+  532:2357   warning  'aB' is already defined                                                    no-redeclare
+  532:2381   warning  'aE' is already defined                                                    no-redeclare
+  532:2557   warning  'al' is already defined                                                    no-redeclare
+  532:2596   warning  'aB' is already defined                                                    no-redeclare
+  532:2771   warning  'aE' is already defined                                                    no-redeclare
+  532:3078   warning  'al' is already defined                                                    no-redeclare
+  532:3117   warning  'aB' is already defined                                                    no-redeclare
+  532:3588   warning  'aH' is already defined                                                    no-redeclare
+  532:3850   warning  Unnecessary escape character: \'                                           no-useless-escape
+  532:4415   warning  'jQuery' is not defined                                                    no-undef
+  532:4441   warning  '$' is not defined                                                         no-undef
+  532:4467   warning  '$' is not defined                                                         no-undef
+  532:4534   warning  '$' is not defined                                                         no-undef
+  532:4543   warning  '$' is not defined                                                         no-undef
+  532:5086   warning  '$' is not defined                                                         no-undef
+  532:5319   warning  '$' is not defined                                                         no-undef
+  532:5340   warning  '$' is not defined                                                         no-undef
+  532:5470   warning  '$' is not defined                                                         no-undef
+  532:5538   warning  '$' is not defined                                                         no-undef
+  532:5915   warning  '$' is not defined                                                         no-undef
+  532:5936   warning  '$' is not defined                                                         no-undef
+  532:6008   warning  '$' is not defined                                                         no-undef
+  532:6085   warning  '$' is not defined                                                         no-undef
+  532:6130   warning  '$' is not defined                                                         no-undef
+  532:6156   warning  '$' is not defined                                                         no-undef
+  532:6197   warning  '$' is not defined                                                         no-undef
+  532:6237   warning  '$' is not defined                                                         no-undef
+  532:6286   warning  '$' is not defined                                                         no-undef
+  532:6326   warning  '$' is not defined                                                         no-undef
+  532:6338   warning  '$' is not defined                                                         no-undef
+  532:6353   warning  '$' is not defined                                                         no-undef
+  532:6423   warning  'standardSpeed' is defined but never used                                  no-unused-vars
+  532:6475   warning  '$' is not defined                                                         no-undef
+  532:6533   warning  '$' is not defined                                                         no-undef
+  532:6579   warning  '$' is not defined                                                         no-undef
+  532:6638   warning  '$' is not defined                                                         no-undef
+  532:6673   warning  'i' is defined but never used                                              no-unused-vars
+  532:6676   warning  'j' is defined but never used                                              no-unused-vars
+  532:6679   warning  'b' is defined but never used                                              no-unused-vars
+  532:6682   warning  'h' is defined but never used                                              no-unused-vars
+  532:6766   warning  '$' is not defined                                                         no-undef
+  532:6825   warning  '$' is not defined                                                         no-undef
+  532:6857   warning  '$' is not defined                                                         no-undef
+  532:7024   warning  '$' is not defined                                                         no-undef
+  532:7078   warning  '$' is not defined                                                         no-undef
+  532:7112   warning  '$' is not defined                                                         no-undef
+  532:7459   warning  '$' is not defined                                                         no-undef
+  532:7514   warning  '$' is not defined                                                         no-undef
+  532:7598   warning  '$' is not defined                                                         no-undef
+  532:7843   warning  '$' is not defined                                                         no-undef
+  532:7886   warning  '$' is not defined                                                         no-undef
+  532:7960   warning  '$' is not defined                                                         no-undef
+  532:8334   warning  '$' is not defined                                                         no-undef
+  532:8366   warning  '$' is not defined                                                         no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/jquery.min.js
+   8:709    warning  Empty block statement                                            no-empty
+   8:768    warning  Empty block statement                                            no-empty
+   8:4809   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   8:5072   warning  'b' is defined but never used                                    no-unused-vars
+   8:5372   warning  'd' is defined but never used                                    no-unused-vars
+   8:5571   warning  'd' is defined but never used                                    no-unused-vars
+   8:5814   warning  'l' is defined but never used                                    no-unused-vars
+   8:7906   warning  Empty block statement                                            no-empty
+   8:8247   warning  Unnecessary escape character: \-                                 no-useless-escape
+   8:8370   warning  Unnecessary escape character: \/                                 no-useless-escape
+   8:8458   warning  Unnecessary escape character: \-                                 no-useless-escape
+   8:8514   warning  Unnecessary escape character: \/                                 no-useless-escape
+   8:8556   warning  Unnecessary escape character: \/                                 no-useless-escape
+   8:12501  warning  Empty block statement                                            no-empty
+   8:13638  warning  'ActiveXObject' is not defined                                   no-undef
+   8:19422  warning  'r' is defined but never used                                    no-unused-vars
+   8:22869  warning  Redundant double negation                                        no-extra-boolean-cast
+   8:23536  warning  Redundant double negation                                        no-extra-boolean-cast
+   8:25727  warning  'e' is defined but never used                                    no-unused-vars
+   8:26540  warning  'c' is assigned a value but never used                           no-unused-vars
+   8:26691  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   8:27461  warning  Empty block statement                                            no-empty
+   8:28741  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   8:35095  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   8:35756  warning  'i' is defined but never used                                    no-unused-vars
+   8:36044  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   8:36746  warning  'g' is assigned a value but never used                           no-unused-vars
+   9:1598   warning  Empty block statement                                            no-empty
+   9:5570   warning  'a' is defined but never used                                    no-unused-vars
+   9:5573   warning  'b' is defined but never used                                    no-unused-vars
+   9:6136   warning  'a' is defined but never used                                    no-unused-vars
+   9:7392   warning  'a' is defined but never used                                    no-unused-vars
+   9:7395   warning  'b' is defined but never used                                    no-unused-vars
+   9:7545   warning  'a' is defined but never used                                    no-unused-vars
+   9:11520  warning  Unnecessary escape character: \[                                 no-useless-escape
+   9:11546  warning  Unnecessary escape character: \[                                 no-useless-escape
+   9:11571  warning  Unnecessary escape character: \[                                 no-useless-escape
+   9:13599  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   9:14800  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:14842  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:14893  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:14944  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:15008  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:15056  warning  Unnecessary escape character: \*                                 no-useless-escape
+   9:15058  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:15129  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:15142  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:15160  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:15242  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:15280  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:15310  warning  Unnecessary escape character: \)                                 no-useless-escape
+   9:15319  warning  Unnecessary escape character: \(                                 no-useless-escape
+   9:15321  warning  Unnecessary escape character: \)                                 no-useless-escape
+   9:15680  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   9:17298  warning  'b' is defined but never used                                    no-unused-vars
+   9:17467  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:20523  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   9:20611  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+   9:20629  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   9:21950  warning  Unnecessary escape character: \[                                 no-useless-escape
+   9:21962  warning  Unnecessary escape character: \(                                 no-useless-escape
+   9:25027  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:25040  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:25496  warning  Empty block statement                                            no-empty
+   9:25827  warning  Empty block statement                                            no-empty
+   9:26252  warning  Unnecessary escape character: \=                                 no-useless-escape
+   9:26456  warning  Empty block statement                                            no-empty
+   9:27391  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   9:27808  warning  Unnecessary escape character: \[                                 no-useless-escape
+   9:27810  warning  Unnecessary escape character: \.                                 no-useless-escape
+   9:31378  warning  'd' is defined but never used                                    no-unused-vars
+   9:31914  warning  Unnecessary escape character: \-                                 no-useless-escape
+   9:31916  warning  Unnecessary escape character: \-                                 no-useless-escape
+  10:9      warning  Unexpected newline between function and ( of function call       no-unexpected-multiline
+  10:3073   warning  Unnecessary escape character: \-                                 no-useless-escape
+  10:3081   warning  Unnecessary escape character: \-                                 no-useless-escape
+  10:4268   warning  Empty block statement                                            no-empty
+  10:5845   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  10:6941   warning  Unnecessary escape character: \-                                 no-useless-escape
+  10:6953   warning  Unnecessary escape character: \-                                 no-useless-escape
+  10:7169   warning  Unnecessary escape character: \+                                 no-useless-escape
+  10:7171   warning  Unnecessary escape character: \.                                 no-useless-escape
+  10:7173   warning  Unnecessary escape character: \-                                 no-useless-escape
+  10:7189   warning  Unnecessary escape character: \/                                 no-useless-escape
+  10:8393   warning  'c' is defined but never used                                    no-unused-vars
+  10:9848   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  10:9916   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  10:10968  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  10:13638  warning  Unnecessary escape character: \=                                 no-useless-escape
+  10:16258  warning  Empty block statement                                            no-empty
+  10:17014  warning  Unnecessary escape character: \-                                 no-useless-escape
+  10:17026  warning  Unnecessary escape character: \-                                 no-useless-escape
+  10:24134  warning  Empty block statement                                            no-empty
+  10:25437  warning  'e' is assigned a value but never used                           no-unused-vars
+  10:25979  warning  'g' is defined but never used                                    no-unused-vars
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/js_metergaugecbin.js
+    2:1   warning  '$' is not defined                                 no-undef
+    3:5   warning  's1' is not defined                                no-undef
+    4:5   warning  'plot3' is not defined                             no-undef
+    4:13  warning  '$' is not defined                                 no-undef
+    4:33  warning  's1' is not defined                                no-undef
+    9:23  warning  '$' is not defined                                 no-undef
+   21:1   warning  '$' is not defined                                 no-undef
+   22:5   warning  's2' is not defined                                no-undef
+   23:5   warning  'plot3' is not defined                             no-undef
+   23:13  warning  '$' is not defined                                 no-undef
+   23:33  warning  's2' is not defined                                no-undef
+   28:23  warning  '$' is not defined                                 no-undef
+   41:1   warning  '$' is not defined                                 no-undef
+   42:5   warning  's3' is not defined                                no-undef
+   43:5   warning  'plot3' is not defined                             no-undef
+   43:13  warning  '$' is not defined                                 no-undef
+   43:33  warning  's3' is not defined                                no-undef
+   48:23  warning  '$' is not defined                                 no-undef
+   58:22  warning  'tabrowindex2' is assigned a value but never used  no-unused-vars
+   63:5   warning  'ifr' is defined but never used                    no-unused-vars
+   63:10  warning  'irl' is defined but never used                    no-unused-vars
+   63:15  warning  'iel' is defined but never used                    no-unused-vars
+   65:24  warning  'clmns1' is defined but never used                 no-unused-vars
+   65:32  warning  'vlt1' is defined but never used                   no-unused-vars
+   67:10  warning  'check' is defined but never used                  no-unused-vars
+  100:5   warning  's1' is not defined                                no-undef
+  101:5   warning  'plot3' is not defined                             no-undef
+  101:13  warning  '$' is not defined                                 no-undef
+  101:33  warning  's1' is not defined                                no-undef
+  106:23  warning  '$' is not defined                                 no-undef
+  116:5   warning  's2' is not defined                                no-undef
+  117:5   warning  'plot3' is not defined                             no-undef
+  117:13  warning  '$' is not defined                                 no-undef
+  117:33  warning  's2' is not defined                                no-undef
+  122:23  warning  '$' is not defined                                 no-undef
+  132:5   warning  's3' is not defined                                no-undef
+  133:5   warning  'plot3' is not defined                             no-undef
+  133:13  warning  '$' is not defined                                 no-undef
+  133:33  warning  's3' is not defined                                no-undef
+  138:23  warning  '$' is not defined                                 no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/js_metergaugecbin_ver1.js
+    2:1   warning  '$' is not defined                                 no-undef
+    3:5   warning  's1' is not defined                                no-undef
+    4:5   warning  'plot3' is not defined                             no-undef
+    4:13  warning  '$' is not defined                                 no-undef
+    4:33  warning  's1' is not defined                                no-undef
+    9:23  warning  '$' is not defined                                 no-undef
+   21:1   warning  '$' is not defined                                 no-undef
+   22:5   warning  's2' is not defined                                no-undef
+   23:5   warning  'plot3' is not defined                             no-undef
+   23:13  warning  '$' is not defined                                 no-undef
+   23:33  warning  's2' is not defined                                no-undef
+   28:23  warning  '$' is not defined                                 no-undef
+   41:1   warning  '$' is not defined                                 no-undef
+   42:5   warning  's3' is not defined                                no-undef
+   43:5   warning  'plot3' is not defined                             no-undef
+   43:13  warning  '$' is not defined                                 no-undef
+   43:33  warning  's3' is not defined                                no-undef
+   48:23  warning  '$' is not defined                                 no-undef
+   60:1   warning  '$' is not defined                                 no-undef
+   61:5   warning  's4' is not defined                                no-undef
+   62:5   warning  'plot3' is not defined                             no-undef
+   62:13  warning  '$' is not defined                                 no-undef
+   62:33  warning  's4' is not defined                                no-undef
+   67:23  warning  '$' is not defined                                 no-undef
+   77:22  warning  'tabrowindex2' is assigned a value but never used  no-unused-vars
+   82:24  warning  'clmns1' is defined but never used                 no-unused-vars
+   82:32  warning  'vlt1' is defined but never used                   no-unused-vars
+   84:10  warning  'secondres' is defined but never used              no-unused-vars
+   85:3   warning  'collector_res' is not defined                     no-undef
+   86:7   warning  'collector_res' is not defined                     no-undef
+   89:6   warning  'vcb' is not defined                               no-undef
+   89:14  warning  'collector_res' is not defined                     no-undef
+   90:70  warning  'vcb' is not defined                               no-undef
+   94:6   warning  's3' is not defined                                no-undef
+   95:5   warning  'plot3' is not defined                             no-undef
+   95:13  warning  '$' is not defined                                 no-undef
+   95:33  warning  's3' is not defined                                no-undef
+  100:23  warning  '$' is not defined                                 no-undef
+  109:2   warning  's4' is not defined                                no-undef
+  110:5   warning  'plot3' is not defined                             no-undef
+  110:13  warning  '$' is not defined                                 no-undef
+  110:33  warning  's4' is not defined                                no-undef
+  115:23  warning  '$' is not defined                                 no-undef
+  125:10  warning  'check' is defined but never used                  no-unused-vars
+  128:7   warning  'base_res' is not defined                          no-undef
+  129:11  warning  'base_res' is not defined                          no-undef
+  132:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  133:1   warning  Mixed spaces and tabs                              no-mixed-spaces-and-tabs
+  142:5   warning  's1' is not defined                                no-undef
+  143:5   warning  'plot3' is not defined                             no-undef
+  143:13  warning  '$' is not defined                                 no-undef
+  143:33  warning  's1' is not defined                                no-undef
+  148:23  warning  '$' is not defined                                 no-undef
+  158:5   warning  's2' is not defined                                no-undef
+  159:5   warning  'plot3' is not defined                             no-undef
+  159:13  warning  '$' is not defined                                 no-undef
+  159:33  warning  's2' is not defined                                no-undef
+  164:23  warning  '$' is not defined                                 no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/js_metergaugecbop.js
+    2:1   warning  '$' is not defined                  no-undef
+    3:5   warning  's1' is not defined                 no-undef
+    4:5   warning  'plot3' is not defined              no-undef
+    4:13  warning  '$' is not defined                  no-undef
+    4:33  warning  's1' is not defined                 no-undef
+    9:23  warning  '$' is not defined                  no-undef
+   21:1   warning  '$' is not defined                  no-undef
+   22:5   warning  's2' is not defined                 no-undef
+   23:5   warning  'plot3' is not defined              no-undef
+   23:13  warning  '$' is not defined                  no-undef
+   23:33  warning  's2' is not defined                 no-undef
+   28:23  warning  '$' is not defined                  no-undef
+   41:1   warning  '$' is not defined                  no-undef
+   42:5   warning  's3' is not defined                 no-undef
+   43:5   warning  'plot3' is not defined              no-undef
+   43:13  warning  '$' is not defined                  no-undef
+   43:33  warning  's3' is not defined                 no-undef
+   48:23  warning  '$' is not defined                  no-undef
+   59:1   warning  '$' is not defined                  no-undef
+   60:5   warning  's4' is not defined                 no-undef
+   61:5   warning  'plot3' is not defined              no-undef
+   61:13  warning  '$' is not defined                  no-undef
+   61:33  warning  's4' is not defined                 no-undef
+   66:23  warning  '$' is not defined                  no-undef
+   82:5   warning  'ifr' is defined but never used     no-unused-vars
+   82:10  warning  'irl' is defined but never used     no-unused-vars
+   85:16  warning  'clmns1' is defined but never used  no-unused-vars
+   85:24  warning  'vlt1' is defined but never used    no-unused-vars
+   87:10  warning  'check' is defined but never used   no-unused-vars
+  123:5   warning  's1' is not defined                 no-undef
+  124:5   warning  'plot3' is not defined              no-undef
+  124:13  warning  '$' is not defined                  no-undef
+  124:33  warning  's1' is not defined                 no-undef
+  129:23  warning  '$' is not defined                  no-undef
+  139:5   warning  's2' is not defined                 no-undef
+  140:5   warning  'plot3' is not defined              no-undef
+  140:13  warning  '$' is not defined                  no-undef
+  140:33  warning  's2' is not defined                 no-undef
+  145:23  warning  '$' is not defined                  no-undef
+  155:5   warning  's3' is not defined                 no-undef
+  156:5   warning  'plot3' is not defined              no-undef
+  156:13  warning  '$' is not defined                  no-undef
+  156:33  warning  's3' is not defined                 no-undef
+  161:23  warning  '$' is not defined                  no-undef
+  170:5   warning  's4' is not defined                 no-undef
+  171:5   warning  'plot3' is not defined              no-undef
+  171:13  warning  '$' is not defined                  no-undef
+  171:33  warning  's4' is not defined                 no-undef
+  176:23  warning  '$' is not defined                  no-undef
+  187:24  warning  'tabrowindex' is not defined        no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/js_metergaugecbop_ver1.js
+    2:1    warning  '$' is not defined                          no-undef
+    3:5    warning  's1' is not defined                         no-undef
+    4:5    warning  'plot3' is not defined                      no-undef
+    4:13   warning  '$' is not defined                          no-undef
+    4:33   warning  's1' is not defined                         no-undef
+    9:23   warning  '$' is not defined                          no-undef
+   21:1    warning  '$' is not defined                          no-undef
+   22:5    warning  's2' is not defined                         no-undef
+   23:5    warning  'plot3' is not defined                      no-undef
+   23:13   warning  '$' is not defined                          no-undef
+   23:33   warning  's2' is not defined                         no-undef
+   28:23   warning  '$' is not defined                          no-undef
+   41:1    warning  '$' is not defined                          no-undef
+   42:5    warning  's3' is not defined                         no-undef
+   43:5    warning  'plot3' is not defined                      no-undef
+   43:13   warning  '$' is not defined                          no-undef
+   43:33   warning  's3' is not defined                         no-undef
+   48:23   warning  '$' is not defined                          no-undef
+   59:1    warning  '$' is not defined                          no-undef
+   60:5    warning  's4' is not defined                         no-undef
+   61:5    warning  'plot3' is not defined                      no-undef
+   61:13   warning  '$' is not defined                          no-undef
+   61:33   warning  's4' is not defined                         no-undef
+   66:23   warning  '$' is not defined                          no-undef
+   78:5    warning  'bf' is assigned a value but never used     no-unused-vars
+   78:15   warning  'br' is assigned a value but never used     no-unused-vars
+   79:5    warning  'alpha' is assigned a value but never used  no-unused-vars
+   81:10   warning  'vbc' is defined but never used             no-unused-vars
+   83:16   warning  'clmns1' is defined but never used          no-unused-vars
+   83:24   warning  'vlt1' is defined but never used            no-unused-vars
+   85:10   warning  'check' is defined but never used           no-unused-vars
+   86:3    warning  'collector_res' is not defined              no-undef
+   90:6    warning  'vcb' is not defined                        no-undef
+   90:14   warning  'collector_res' is not defined              no-undef
+   92:47   warning  'vcb' is not defined                        no-undef
+   92:74   warning  'vcb' is not defined                        no-undef
+   92:102  warning  'vcb' is not defined                        no-undef
+   92:129  warning  'vcb' is not defined                        no-undef
+   94:57   warning  'vcb' is not defined                        no-undef
+   96:6    warning  's3' is not defined                         no-undef
+   97:5    warning  'plot3' is not defined                      no-undef
+   97:13   warning  '$' is not defined                          no-undef
+   97:33   warning  's3' is not defined                         no-undef
+  102:23   warning  '$' is not defined                          no-undef
+  111:2    warning  's4' is not defined                         no-undef
+  112:5    warning  'plot3' is not defined                      no-undef
+  112:13   warning  '$' is not defined                          no-undef
+  112:33   warning  's4' is not defined                         no-undef
+  117:23   warning  '$' is not defined                          no-undef
+  127:12   warning  'firstres' is defined but never used        no-unused-vars
+  130:7    warning  'base_res' is not defined                   no-undef
+  131:11   warning  'base_res' is not defined                   no-undef
+  142:5    warning  's1' is not defined                         no-undef
+  143:5    warning  'plot3' is not defined                      no-undef
+  143:13   warning  '$' is not defined                          no-undef
+  143:33   warning  's1' is not defined                         no-undef
+  148:23   warning  '$' is not defined                          no-undef
+  158:5    warning  's2' is not defined                         no-undef
+  159:5    warning  'plot3' is not defined                      no-undef
+  159:13   warning  '$' is not defined                          no-undef
+  159:33   warning  's2' is not defined                         no-undef
+  164:23   warning  '$' is not defined                          no-undef
+  175:24   warning  'tabrowindex' is not defined                no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/js_metergaugece.js
+    2:1   warning  '$' is not defined                            no-undef
+    3:5   warning  's1' is not defined                           no-undef
+    4:5   warning  'plot3' is not defined                        no-undef
+    4:13  warning  '$' is not defined                            no-undef
+    4:33  warning  's1' is not defined                           no-undef
+    9:23  warning  '$' is not defined                            no-undef
+   21:1   warning  '$' is not defined                            no-undef
+   22:5   warning  's2' is not defined                           no-undef
+   23:5   warning  'plot3' is not defined                        no-undef
+   23:13  warning  '$' is not defined                            no-undef
+   23:33  warning  's2' is not defined                           no-undef
+   28:23  warning  '$' is not defined                            no-undef
+   40:1   warning  '$' is not defined                            no-undef
+   41:5   warning  's3' is not defined                           no-undef
+   42:5   warning  'plot3' is not defined                        no-undef
+   42:13  warning  '$' is not defined                            no-undef
+   42:33  warning  's3' is not defined                           no-undef
+   47:23  warning  '$' is not defined                            no-undef
+   58:1   warning  '$' is not defined                            no-undef
+   59:5   warning  's4' is not defined                           no-undef
+   60:5   warning  'plot3' is not defined                        no-undef
+   60:13  warning  '$' is not defined                            no-undef
+   60:33  warning  's4' is not defined                           no-undef
+   65:23  warning  '$' is not defined                            no-undef
+   80:5   warning  'ifr' is defined but never used               no-unused-vars
+   80:10  warning  'irl' is defined but never used               no-unused-vars
+   80:15  warning  'iel' is defined but never used               no-unused-vars
+   82:10  warning  'check' is defined but never used             no-unused-vars
+   91:43  warning  'vbe' is not defined                          no-undef
+   92:52  warning  'vbc' is not defined                          no-undef
+   93:9   warning  'iel' is assigned a value but never used      no-unused-vars
+   95:5   warning  's1' is not defined                           no-undef
+   96:5   warning  'plot3' is not defined                        no-undef
+   96:13  warning  '$' is not defined                            no-undef
+   96:33  warning  's1' is not defined                           no-undef
+  101:23  warning  '$' is not defined                            no-undef
+  111:5   warning  's2' is not defined                           no-undef
+  112:5   warning  'plot3' is not defined                        no-undef
+  112:13  warning  '$' is not defined                            no-undef
+  112:33  warning  's2' is not defined                           no-undef
+  117:23  warning  '$' is not defined                            no-undef
+  127:5   warning  's3' is not defined                           no-undef
+  128:5   warning  'plot3' is not defined                        no-undef
+  128:13  warning  '$' is not defined                            no-undef
+  128:33  warning  's3' is not defined                           no-undef
+  133:23  warning  '$' is not defined                            no-undef
+  142:5   warning  's4' is not defined                           no-undef
+  143:5   warning  'plot3' is not defined                        no-undef
+  143:13  warning  '$' is not defined                            no-undef
+  143:33  warning  's4' is not defined                           no-undef
+  148:23  warning  '$' is not defined                            no-undef
+  161:9   warning  'columns' is assigned a value but never used  no-unused-vars
+  164:28  warning  'tabrowindex' is not defined                  no-undef
+  180:9   warning  'Alert' is not defined                        no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/js_metergaugecein.js
+    2:1   warning  '$' is not defined                  no-undef
+    3:5   warning  's1' is not defined                 no-undef
+    4:5   warning  'plot3' is not defined              no-undef
+    4:13  warning  '$' is not defined                  no-undef
+    4:33  warning  's1' is not defined                 no-undef
+    9:23  warning  '$' is not defined                  no-undef
+   22:1   warning  '$' is not defined                  no-undef
+   23:5   warning  's2' is not defined                 no-undef
+   24:5   warning  'plot3' is not defined              no-undef
+   24:13  warning  '$' is not defined                  no-undef
+   24:33  warning  's2' is not defined                 no-undef
+   29:23  warning  '$' is not defined                  no-undef
+   42:1   warning  '$' is not defined                  no-undef
+   43:5   warning  's3' is not defined                 no-undef
+   44:5   warning  'plot3' is not defined              no-undef
+   44:13  warning  '$' is not defined                  no-undef
+   44:33  warning  's3' is not defined                 no-undef
+   49:23  warning  '$' is not defined                  no-undef
+   66:39  warning  'clmns1' is defined but never used  no-unused-vars
+   66:47  warning  'vltbe1' is defined but never used  no-unused-vars
+   68:10  warning  'check' is defined but never used   no-unused-vars
+  101:5   warning  's1' is not defined                 no-undef
+  102:5   warning  'plot3' is not defined              no-undef
+  102:13  warning  '$' is not defined                  no-undef
+  102:33  warning  's1' is not defined                 no-undef
+  107:23  warning  '$' is not defined                  no-undef
+  117:5   warning  's2' is not defined                 no-undef
+  118:5   warning  'plot3' is not defined              no-undef
+  118:13  warning  '$' is not defined                  no-undef
+  118:33  warning  's2' is not defined                 no-undef
+  123:23  warning  '$' is not defined                  no-undef
+  134:5   warning  's3' is not defined                 no-undef
+  135:5   warning  'plot3' is not defined              no-undef
+  135:13  warning  '$' is not defined                  no-undef
+  135:33  warning  's3' is not defined                 no-undef
+  140:23  warning  '$' is not defined                  no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/js_metergaugecein_ver1.js
+    3:1   warning  '$' is not defined                       no-undef
+    4:5   warning  's1' is not defined                      no-undef
+    5:5   warning  'plot3' is not defined                   no-undef
+    5:13  warning  '$' is not defined                       no-undef
+    5:33  warning  's1' is not defined                      no-undef
+   10:23  warning  '$' is not defined                       no-undef
+   23:1   warning  '$' is not defined                       no-undef
+   24:5   warning  's2' is not defined                      no-undef
+   25:5   warning  'plot3' is not defined                   no-undef
+   25:13  warning  '$' is not defined                       no-undef
+   25:33  warning  's2' is not defined                      no-undef
+   30:23  warning  '$' is not defined                       no-undef
+   43:1   warning  '$' is not defined                       no-undef
+   44:5   warning  's3' is not defined                      no-undef
+   45:5   warning  'plot3' is not defined                   no-undef
+   45:13  warning  '$' is not defined                       no-undef
+   45:33  warning  's3' is not defined                      no-undef
+   50:23  warning  '$' is not defined                       no-undef
+   62:1   warning  '$' is not defined                       no-undef
+   63:5   warning  's4' is not defined                      no-undef
+   64:5   warning  'plot3' is not defined                   no-undef
+   64:13  warning  '$' is not defined                       no-undef
+   64:33  warning  's4' is not defined                      no-undef
+   69:23  warning  '$' is not defined                       no-undef
+   80:15  warning  'br' is assigned a value but never used  no-unused-vars
+   81:5   warning  'k' is assigned a value but never used   no-unused-vars
+   81:16  warning  'q' is assigned a value but never used   no-unused-vars
+   82:5   warning  'ea' is assigned a value but never used  no-unused-vars
+   82:13  warning  'js' is assigned a value but never used  no-unused-vars
+   83:5   warning  'vt' is defined but never used           no-unused-vars
+   83:9   warning  'is' is defined but never used           no-unused-vars
+   83:13  warning  'ar' is defined but never used           no-unused-vars
+   83:17  warning  'af' is defined but never used           no-unused-vars
+   83:21  warning  'ies' is defined but never used          no-unused-vars
+   83:26  warning  'ics' is defined but never used          no-unused-vars
+   85:5   warning  'ifr' is defined but never used          no-unused-vars
+   85:10  warning  'irl' is defined but never used          no-unused-vars
+   85:15  warning  'ibl' is defined but never used          no-unused-vars
+   85:20  warning  'vbc' is defined but never used          no-unused-vars
+   87:39  warning  'clmns1' is defined but never used       no-unused-vars
+   87:47  warning  'vltbe1' is defined but never used       no-unused-vars
+   89:10  warning  'secondres' is defined but never used    no-unused-vars
+   90:5   warning  'collector_res' is not defined           no-undef
+   92:22  warning  'collector_res' is not defined           no-undef
+   93:18  warning  'ib_int' is not defined                  no-undef
+   93:47  warning  'ib_int' is not defined                  no-undef
+   95:4   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+   96:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+   98:10  warning  's3' is not defined                      no-undef
+   99:5   warning  'plot3' is not defined                   no-undef
+   99:13  warning  '$' is not defined                       no-undef
+   99:33  warning  's3' is not defined                      no-undef
+  104:23  warning  '$' is not defined                       no-undef
+  114:2   warning  's4' is not defined                      no-undef
+  115:5   warning  'plot3' is not defined                   no-undef
+  115:13  warning  '$' is not defined                       no-undef
+  115:33  warning  's4' is not defined                      no-undef
+  120:23  warning  '$' is not defined                       no-undef
+  132:10  warning  'check' is defined but never used        no-unused-vars
+  135:4   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  135:6   warning  'base_res' is not defined                no-undef
+  137:17  warning  'base_res' is not defined                no-undef
+  138:2   warning  'ib_int' is not defined                  no-undef
+  144:3   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  149:5   warning  's1' is not defined                      no-undef
+  150:5   warning  'plot3' is not defined                   no-undef
+  150:13  warning  '$' is not defined                       no-undef
+  150:33  warning  's1' is not defined                      no-undef
+  155:23  warning  '$' is not defined                       no-undef
+  165:5   warning  's2' is not defined                      no-undef
+  166:5   warning  'plot3' is not defined                   no-undef
+  166:13  warning  '$' is not defined                       no-undef
+  166:33  warning  's2' is not defined                      no-undef
+  171:23  warning  '$' is not defined                       no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/js_metergaugeceop.js
+   21:1    warning  '$' is not defined                        no-undef
+   22:5    warning  's1' is not defined                       no-undef
+   23:5    warning  'plot3' is not defined                    no-undef
+   23:13   warning  '$' is not defined                        no-undef
+   23:33   warning  's1' is not defined                       no-undef
+   28:23   warning  '$' is not defined                        no-undef
+   41:1    warning  '$' is not defined                        no-undef
+   42:5    warning  's2' is not defined                       no-undef
+   43:5    warning  'plot3' is not defined                    no-undef
+   43:13   warning  '$' is not defined                        no-undef
+   43:33   warning  's2' is not defined                       no-undef
+   48:23   warning  '$' is not defined                        no-undef
+   59:1    warning  '$' is not defined                        no-undef
+   60:5    warning  's3' is not defined                       no-undef
+   61:5    warning  'plot3' is not defined                    no-undef
+   61:13   warning  '$' is not defined                        no-undef
+   61:33   warning  's3' is not defined                       no-undef
+   66:23   warning  '$' is not defined                        no-undef
+   82:5    warning  'vbe' is defined but never used           no-unused-vars
+   83:25   warning  'tabrowindex2' is defined but never used  no-unused-vars
+   84:19   warning  'clmns1' is defined but never used        no-unused-vars
+   84:27   warning  'vltce1' is defined but never used        no-unused-vars
+   86:10   warning  'check' is defined but never used         no-unused-vars
+   91:5    warning  'ibl' is not defined                      no-undef
+  103:5    warning  'ib0' is not defined                      no-undef
+  104:5    warning  'ib1' is not defined                      no-undef
+  105:129  warning  'ibl' is not defined                      no-undef
+  105:147  warning  'ib0' is not defined                      no-undef
+  105:166  warning  'ib1' is not defined                      no-undef
+  142:5    warning  's1' is not defined                       no-undef
+  143:5    warning  'plot3' is not defined                    no-undef
+  143:13   warning  '$' is not defined                        no-undef
+  143:33   warning  's1' is not defined                       no-undef
+  148:23   warning  '$' is not defined                        no-undef
+  158:5    warning  's2' is not defined                       no-undef
+  159:5    warning  'plot3' is not defined                    no-undef
+  159:13   warning  '$' is not defined                        no-undef
+  159:33   warning  's2' is not defined                       no-undef
+  164:23   warning  '$' is not defined                        no-undef
+  173:5    warning  's3' is not defined                       no-undef
+  174:5    warning  'plot3' is not defined                    no-undef
+  174:13   warning  '$' is not defined                        no-undef
+  174:33   warning  's3' is not defined                       no-undef
+  179:23   warning  '$' is not defined                        no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/js_metergaugeceop_ver1.js
+    3:1   warning  '$' is not defined                        no-undef
+    4:5   warning  's1' is not defined                       no-undef
+    5:5   warning  'plot3' is not defined                    no-undef
+    5:13  warning  '$' is not defined                        no-undef
+    5:33  warning  's1' is not defined                       no-undef
+   10:23  warning  '$' is not defined                        no-undef
+   23:1   warning  '$' is not defined                        no-undef
+   24:5   warning  's2' is not defined                       no-undef
+   25:5   warning  'plot3' is not defined                    no-undef
+   25:13  warning  '$' is not defined                        no-undef
+   25:33  warning  's2' is not defined                       no-undef
+   30:23  warning  '$' is not defined                        no-undef
+   43:1   warning  '$' is not defined                        no-undef
+   44:5   warning  's3' is not defined                       no-undef
+   45:5   warning  'plot3' is not defined                    no-undef
+   45:13  warning  '$' is not defined                        no-undef
+   45:33  warning  's3' is not defined                       no-undef
+   50:23  warning  '$' is not defined                        no-undef
+   62:1   warning  '$' is not defined                        no-undef
+   63:5   warning  's4' is not defined                       no-undef
+   64:5   warning  'plot3' is not defined                    no-undef
+   64:13  warning  '$' is not defined                        no-undef
+   64:33  warning  's4' is not defined                       no-undef
+   69:23  warning  '$' is not defined                        no-undef
+   80:5   warning  'bf' is assigned a value but never used   no-unused-vars
+   80:15  warning  'br' is assigned a value but never used   no-unused-vars
+   81:5   warning  'k' is assigned a value but never used    no-unused-vars
+   81:16  warning  'q' is assigned a value but never used    no-unused-vars
+   82:5   warning  'ea' is assigned a value but never used   no-unused-vars
+   82:13  warning  'js' is assigned a value but never used   no-unused-vars
+   83:5   warning  'vt' is defined but never used            no-unused-vars
+   83:9   warning  'is' is defined but never used            no-unused-vars
+   83:13  warning  'ar' is defined but never used            no-unused-vars
+   83:17  warning  'af' is defined but never used            no-unused-vars
+   83:21  warning  'ies' is defined but never used           no-unused-vars
+   83:26  warning  'ics' is defined but never used           no-unused-vars
+   85:25  warning  'tabrowindex2' is defined but never used  no-unused-vars
+   86:19  warning  'clmns1' is defined but never used        no-unused-vars
+   86:27  warning  'vltce1' is defined but never used        no-unused-vars
+   88:10  warning  'firstres' is defined but never used      no-unused-vars
+   89:5   warning  'base_res' is not defined                 no-undef
+   90:9   warning  'base_res' is not defined                 no-undef
+   96:9   warning  's1' is not defined                       no-undef
+   97:5   warning  'plot3' is not defined                    no-undef
+   97:13  warning  '$' is not defined                        no-undef
+   97:33  warning  's1' is not defined                       no-undef
+  102:23  warning  '$' is not defined                        no-undef
+  112:5   warning  's2' is not defined                       no-undef
+  113:5   warning  'plot3' is not defined                    no-undef
+  113:13  warning  '$' is not defined                        no-undef
+  113:33  warning  's2' is not defined                       no-undef
+  118:23  warning  '$' is not defined                        no-undef
+  128:10  warning  'check' is defined but never used         no-unused-vars
+  132:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  133:2   warning  'collector_res' is not defined            no-undef
+  137:6   warning  'collector_res' is not defined            no-undef
+  140:4   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  141:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  143:3   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  146:1   warning  's3' is not defined                       no-undef
+  147:5   warning  'plot3' is not defined                    no-undef
+  147:13  warning  '$' is not defined                        no-undef
+  147:33  warning  's3' is not defined                       no-undef
+  152:23  warning  '$' is not defined                        no-undef
+  162:2   warning  's4' is not defined                       no-undef
+  163:5   warning  'plot3' is not defined                    no-undef
+  163:13  warning  '$' is not defined                        no-undef
+  163:33  warning  's4' is not defined                       no-undef
+  168:23  warning  '$' is not defined                        no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/shBrushJScript.min.js
+   9:34  warning  'SyntaxHighlighter' is not defined  no-undef
+   9:52  warning  'require' is not defined            no-undef
+  12:15  warning  'SyntaxHighlighter' is not defined  no-undef
+  21:21  warning  'SyntaxHighlighter' is not defined  no-undef
+  23:5   warning  'SyntaxHighlighter' is not defined  no-undef
+  24:34  warning  'exports' is not defined            no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/js/jquery_files/shBrushXml.min.js
+  10:34  warning  'SyntaxHighlighter' is not defined  no-undef
+  10:52  warning  'require' is not defined            no-undef
+  12:22  warning  'j' is defined but never used       no-unused-vars
+  13:19  warning  'SyntaxHighlighter' is not defined  no-undef
+  14:27  warning  'XRegExp' is not defined            no-undef
+  17:29  warning  'XRegExp' is not defined            no-undef
+  26:36  warning  'XRegExp' is not defined            no-undef
+  27:20  warning  'SyntaxHighlighter' is not defined  no-undef
+  28:24  warning  'XRegExp' is not defined            no-undef
+  30:21  warning  'SyntaxHighlighter' is not defined  no-undef
+  32:5   warning  'SyntaxHighlighter' is not defined  no-undef
+  33:34  warning  'exports' is not defined            no-undef
+
+/home/runner/work/exp-common-emitter-characteristics-iitkgp/exp-common-emitter-characteristics-iitkgp/experiment/simulation/pop_up/pop_up.js
+  28:5  warning  'Alert' is assigned a value but never used  no-unused-vars
+
+✖ 1491 problems (0 errors, 1491 warnings)
+  0 errors and 2 warnings potentially fixable with the `--fix` option.
+
