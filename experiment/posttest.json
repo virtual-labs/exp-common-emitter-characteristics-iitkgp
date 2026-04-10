@@ -10,12 +10,7 @@
         "d": "Base current unchanged, collector current increases slightly (ideally will not change at all!), transistor dissipates more power in the form of heat (may overheat)"
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is correct  ",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d":"You have choosen option (d). The answer is incorrect"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -28,12 +23,7 @@
         "d": "Base current unchanged, collector current increases slightly (ideally will not change at all!), transistor dissipates more power in the form of heat (may overheat)"
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect  ",
-        "b": "You have choosen option (b). The answer is correct",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d":"You have choosen option (d). The answer is incorrect"
-      },
+     
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
